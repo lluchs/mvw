@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <title>MV Harmonie Würmersheim - <%= @item[:title] %></title>
+    <link rel="stylesheet" href="/style.css">
+
+    <meta name="generator" content="nanoc <%= Nanoc::VERSION %>"> 
+  </head>
+  <body>
+    <header class="content">
+      <div>
+        <img src="/images/logo.png" alt="MV Harmonie Würmersheim" class="logo">
+        <nav>
+          <ul class="nav nav--block">
+            <li><a href="/termine">Termine</a></li>
+            <li><a href="/bilder">Bilder</a></li>
+            <li><a href="/verein">Verein</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <div id="main" class="content">
+      <%= yield %>
+    </div>
+
+    <footer class="content">
+      <a href="/impressum">Impressum</a>
+    </footer>
+  </body>
+</html>
