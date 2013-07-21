@@ -8,3 +8,12 @@
 body {
   min-width: 800px;
 }
+
+a:link, a:visited {
+  color: #2366AD;
+}
+
+a:hover {
+  background-color: #2366AD;
+  color: white;
+}
