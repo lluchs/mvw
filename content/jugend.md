@@ -3,13 +3,13 @@ title: Jugend
 
 subnav:
   - img: http://placehold.it/200x200
-    url: früherziehung/
+    url: frueherziehung/
     title: Früherziehung
   - img: http://placehold.it/200x200
-    url: blockflöten/
+    url: blockfloeten/
     title: Blockflöten
   - img: http://placehold.it/200x200
-    url: schülerkapelle/
+    url: schuelerkapelle/
     title: Schülerkapelle
   - img: http://placehold.it/200x200
     url: jugendkapelle/
