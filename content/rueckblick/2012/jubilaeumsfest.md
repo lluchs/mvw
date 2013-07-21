@@ -1,0 +1,41 @@
+---
+title: Jubiläumsfest 2012 an der Waldhütte zum 100jährigen Bestehen des Musikvereins 
+date: 17.-20. Mai 2012
+sort: 2012-05-17
+---
+
+Rückblick auf das Jubiläumsfest 2012 (17.-20.05.2012)
+=====================================================
+
+Eine enorme Leistung hat unser Verein Mitte Mai 2012 vollbracht. Ein 100-jähriges Jubiläum auf einem „Acker“ zu feiern konnte sich keiner so richtig vorstellen, doch wir haben es mit viel Anstrengung geschafft. Und wir haben es sehr gut geschafft.
+
+Schon zwei Tage vor Festbeginn haben wir den Holzboden ausgelegt und das große Festzelt aufgebaut. Innerhalb von sechs Stunden war diese Aufgabe bewältigt. Einen Tag später ging es dann weiter mit dem Aufstellen der Garnituren, dem Spülen von jeder Menge Geschirr und Gläsern und dem Verlegen von Stromkabeln, Lichterketten usw. (einen herzlichen Dank an dieser Stelle an Wolfgang Bader und Gerd Schneider für das Einrichten der Strominfrastruktur!). Dank unserer Nachtwachen Lukas und Constantin konnten wir in der letzten Nacht vor dem großen Fest getrost schlafen gehen.
+
+Am Vatertag gegen 07.00 Uhr rückte dann das nächste Arbeitsteam an, um die vielen Garnituren abzuwaschen. Gleichzeitig wurden die Stände eingerichtet, sodass um 10.30 Uhr die Gesamtkapelle musikalisch das Jubiläumsfest eröffnen konnte. Gegen 11.00 Uhr wurde durch den Ortsvorsteher und Festpräsident Helmut Schorpp sowie die 1. Vorsitzende Daniela Ganz der Fassanstich vorgenommen und das Fest somit offiziell eröffnet. Die anwesenden Gäste durften sich dieses Freibier schmecken lassen. Der Donnerstag- traditionell unser Waldfest- übertraf dann unsere kühnsten Erwartungen. Der Wettergott hat im Jubiläumsjahr sehr gut mit uns gemeint und wir konnten diesen Tag endlich mal wieder bei schönem Wetter feiern.
+
+Die verschiedenen Kapellen unseres Vereins, die Jugendkapelle aus Au am Rhein, sowie die Gastkapellen aus Daxlanden und Niederbühl übernahmen die musikalischen Beiträge am Nachmittag. Ab 18.00 Uhr spielte die Musikkapelle aus Trippstadt (bei Kaiserslautern) auf und unterhielt unser Publikum fast vier Stunden lang mit zünftiger Blasmusik. 
+
+![Musikkapelle aus Trippstadt](/images/rueckblick/jubilaeumsfest12_donnerstag.jpg)
+
+Auch in dieser Nacht wurde die Nachtwache mit eigenen Kräften gemeistert. Ein Dankeschön geht hier an Benjamin, Kevin und Philipp, die diese Nacht dazu genutzt haben schon einmal die Bar für den Freitagabend einzurichten. An diesem Abend sollten die Jugend und die „Junggebliebenen“ auf ihre Kosten kommen. Mit Sanity und Sean Treacy wurden zwei Bands engagiert, die das Publikum an diesem Abend begeisterten. Es war ein sehr schöner Abend, der erst gegen 03.00 Uhr sein Ende fand. Ein Dankeschön an Daniel Heck und sein Orga-Team für die gute Vorbereitung und Durchführung dieses Abends.
+
+Am Samstag stand der Nachmittag ganz im Zeichen der Kinder. Der Musikverein hatte zum Kinder-Spiel-Nachmittag eingeladen und viele, viele Familien haben den Weg zu uns auf Festgelände gefunden. Claudia Fitterer hatte mit Unterstützung von Jonas Oelze, Julia Schorpp, Isabell Ort und Sarah Eisen ein tolles Programm zusammengestellt. Die Kinder konnten Brezelstecken für den Umzug basteln, sich schminken lassen, Regenmacher und Rasseln basteln, Knautschbälle herstellen und Mandalas anmalen. Wer davon genug hatte, konnte noch eine Runde in der Kutsche fahren oder seine Energie in der Hüpfburg verbrauchen. Im Zelt sorgten noch fünf Tanzgruppen der JKG für gute Unterhaltung - dafür ein ganz herzliches Dankeschön an Kathrin Vetter für die Organisation. Der Wettergott beendete kurz vor dem geplanten Ende den Kindernachmittag, indem er einen Regenschauer schickte, vor dem alle ins große Festzelt flüchten mussten. Allen Organisatoren und Besuchern des Kindernachmittages möchten wir an dieser Stelle ganz herzlich für diese schönen Stunden danken.
+
+Am Abend stand dann das nächste Highlight bevor. Bei uns war das aber nicht das Champions-League-Finale zwischen dem FC Bayern München und dem FC Chelsea, sondern der Auftritt von Vlado Kumpan und seinen Musikanten. Die Kapelle aus Tschechien brachte das Festzelt schon bei den ersten Tönen zum Beben. Und diese ausgelassene Stimmung hielt auch nach der Niederlage der Bayern-Elf im Festzelt an, zumindest bis weit nach Mitternacht die allerletzten Töne aus Tuba, Posaune, Tenorhorn, Klarinette, Trompete, Flügelhorn und Schlagzeug verklungen waren. Dieser Abend und das Feuerwerk an böhmisch-mährischer Blasmusik werden vielen Gästen noch lange in Erinnerung bleiben. Der Hauptorganisator Benjamin Heck war angesichts der guten Stimmung und der zahlreichen Gäste mehr als zufrieden- und wir danken auch ihm und seinen Mitstreitern für den reibungslosen Ablauf.
+
+![Vlado Kumpan](/images/rueckblick/jubilaeumsfest12_samstag.jpg)
+
+Reges Treiben herrschte dann am Festsonntag den ganzen Tag über. Ab 07.00 Uhr wurde der Festplatz für das große Verbandsmusikfest vorbereitet, das an diesem Tag während unseres Jubiläumsfestes gefeiert wurde. Schon in den frühen Morgenstunden waren die Bewohner der Badener Straße damit beschäftigt, ihre Vorgärten und Häuser mit Rosen, Fähnchen, Tannenreisig usw. zu schmücken. Denn durch diese Straße sollte sich am Nachmittag der Festumzug bewegen. Allen „Dekorateuren“ sagen wir ein ganz herzliches Dankeschön. Doch der Tag begann in der Herz-Jesu Kirche mit einem Festgottesdienst, den die Parforcehorn-Bläser Baden unter der Leitung unseres Musikers Horst Minet musikalisch gestalteten. Der Gottesdienst war leider nur mäßig besucht, trotz allem möchten wir uns ganz herzlich für die Darbietung der Hubertus-Messe bei Horst ganz herzlich bedanken.
+
+Um 11.00 Uhr stand schon der nächste Programmpunkt an. Das Verbandsorchester unter der Leitung von Markus Mauderer gab ein Festkonzert im Zelt, bei dem sich zahlreiche Gäste zum Mittagessen eingefunden hatten. Wunderbare Musik erklang und wir haben uns über diese musikalischen „Glückwünsche“ zu unserem Jubiläum sehr gefreut.
+
+Ab 13.00 Uhr wurde die Badener Straße für den kompletten Verkehr gesperrt und viele Musikvereine und Fußgruppen örtlicher Vereine fanden sich am Sportplatz ein, um sich dort zum Umzug aufzustellen. Dieser setzte sich dann pünktlich um 14.00 Uhr in Bewegung und marschierte den weiten Weg durch die Badener Straße bis zum Festplatz. Würmersheim hat nach langer Zeit einmal wieder einen richtigen Festumzug erlebt und auch das bei strahlendem Sonnenschein. Mancher Musiker musste dann sofort nach der Ankunft am Festplatz seinen großen Durst stillen.
+
+![Marschierende Kapellen](/images/rueckblick/jubilaeumsfest12_sonntag.jpg)
+
+Der Nachmittag stand ganz im Zeichen der Blasmusik. Im stündlichen Wechsel unterhielten und verschiedene Musikkapellen des Blasmusikverbandes Mittelbaden und wir waren von der Kulisse und dem Zustrom der Gäste einfach überwältigt. Den Abschluss unseres Feiermarathons bildete die Tombola, bei der zahlreiche Gewinne einen neuen Besitzer suchten. Dieser Tag war ebenso wie die anderen ein voller Erfolg und wir danken Petra Eisen ganz herzlich für die Organisation und Durchführung des Verbandmusikfestes und Sarah Grüßinger für die Organisation und Durchführung der Tombola.
+
+Gegen 23.00 Uhr am Sonntagabend hatten wir es dann geschafft. Vier wundervolle Tage mit einem abwechslungsreichen Programm gingen zu Ende. Wir haben an diesem Abend noch alle Garnituren wieder in die LKW`s verstaut und mussten am Montag nur noch die Stände abbauen, das Festzelt abbauen und den Holzboden wieder auf den LKW verladen und, und, und. Aber nach 10 Stunden Arbeit hatten wir auch das geschafft- nicht zuletzt deshalb, weil uns Franz Burkard seinen Traktor zur Verfügung gestellt hat. Kevin durfte den ganzen Tag auf seinem „Lieblingsgefährt“ verbringen und hat uns viel Arbeit damit abgenommen.
+
+Letztendlich bleibt uns noch allen, wirklich allen ein ganz großes Dankeschön zu sagen, die zum Gelingen dieses großartigen und unvergesslichen Jubiläumsfestes beigetragen haben. Wir freuen uns schon darauf, die zahlreichen Gäste bei einer unserer nächsten Veranstaltungen wieder begrüßen zu dürfen.
+ 

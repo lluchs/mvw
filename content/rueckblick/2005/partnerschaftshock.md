@@ -1,0 +1,12 @@
+---
+title: Partnerschaftshock an der Grundschule
+date: Juni 2005
+sort: 2005-06-04
+---
+
+Rückblick auf den Partnerschaftshock 2005
+=========================================
+
+Am Samstag, den 04.06.2005 veranstaltete der Musikverein anläßlich des Besuchs aus Littlehampton einen Hock an der neuen Grundschule in Würmersheim. Bei strahlendem Sonnenschein trafen sich hier die englischen Gäste mit den Durmersheimer und Würmersheimer Gastfamilien. Hierzu war auch die Bevölkerung herzlich eingeladen. Für musikalische Unterhaltung sorgten Daniel Heck am Klavier, die Jugendkapelle, der Musikverein Durmersheim und natürlich unsere Gäste, die Littlehampton Concert Band. Um sich auf diesen Auftritt etwas vorzubereiten und da sie quasi nur mit der halben Mannschaft angereist waren, hatten die Littlehamptoner am Morgen eine Probe auf dem Chenneviere-Platz absolviert. 
+
+Aufgrund von Wind, Durmersheimer Musikerschnaps, vielleicht etwas wenig Schlaf und fehlende Musiker war diese Probe nicht gerade von Erfolg gekrönt, entsprechend nervös waren die Musiker am Abend vor ihrem Auftritt. Offensichtlich hatte sich die morgendlich Probe jeder zu Herzen genommen, denn unsere Gäste präsentierten sich mit hervorragender Musik und spätestens bei "Hootenany" war die Stimmung auf dem Höhepunkt angelangt und das Publikum klatschte und tanzte begeistert mit. Im Anschluss an ihren Auftritt bedankte sich Vorstand John Wyatt sehr herzlich (und zum Erstaunen aller auf deutsch) bei uns für die freundliche Aufnahme und die Organisation dieses Festes. Als Gastgeschenk überreichte er eine Fahne der Littlehampton Concert Band. Den Mitgliedern des englischen Partnerschaftsausschusses erklärte er anschließend, es sei die beste Idee überhaupt gewesen, die Concert Band mit auf diese Reise zu nehmen. Begeistert von soviel Bier feierten unsere englischen Gäste mit ihren deutschen Gastfamilien bis um Mitternacht. Für gute Unterhaltung und englischen Hits wie "Here comes the sun" oder "99 red balloons" sorgte unsere Gesamtkapelle, die den musikalischen Abschluss des Abends machte. Alles in allem war es ein wunderschöner Abend im Schulhof der Grundschule. Einige Engländer waren so begeistert, dass sie am liebsten hier geblieben wären.

@@ -42,3 +42,17 @@ title: Termine
     <td>Weihnachtsfeier 2013 im Würmersheimer Gemeindezentrum</td>
   </tr>
 </table>
+
+<h1>Rückblicke</h1>
+
+<%
+years = @items.select { |i| i.identifier.start_with? '/rueckblick/' }
+              .group_by { |i| i.identifier[12..15] }
+years.keys.reverse.each do |year| %>
+  <h2><%= year %></h2>
+  <ul>
+    <% years[year].sort_by { |i| i.attributes[:sort] }.reverse.each do |item| %>
+      <li><a href="<%= item.path %>"><%= item.attributes[:title] %></a> (<%= item.attributes[:date] %>)</li>
+    <% end %>
+  </ul>
+<% end %>
