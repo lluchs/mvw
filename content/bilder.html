@@ -10,7 +10,7 @@ years.keys.reverse.each do |year| %>
       <li>
         <a href="<%= item.path %>">
           <div class="l-box">
-            <img src="<%= thumbnail_path(item.children[0]) %>" alt="">
+            <img src="<%= thumbnail_path(item[:splash].nil? ? item.children[0] : gallery_image(item, item[:splash])) %>" alt="">
           </div>
           <strong><%= item.attributes[:title] %></strong>
         </a>

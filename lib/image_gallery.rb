@@ -9,3 +9,8 @@ end
 def thumbnail_path(image)
   image.path.sub %r#/(?=[^/]+$)#, '/thumbs/'
 end
+
+# Returns a gallery image by name for the given gallery.
+def gallery_image(gallery, filename)
+  gallery.children.find { |img| img.identifier.end_with? "/#{filename}/" }
+end
