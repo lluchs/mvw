@@ -5,9 +5,16 @@ years = @items.select { |i| i.identifier =~ %r#^/bilder/\d{4}/[^/]+/$# }
               .group_by { |i| gallery_year i }
 years.keys.reverse.each do |year| %>
   <h2><%= year %></h2>
-  <ul>
+  <ul class="image-list subnav">
     <% years[year].sort_by { |i| i.attributes[:sort] }.reverse.each do |item| %>
-      <li><a href="<%= item.path %>"><%= item.attributes[:title] %></a></li>
+      <li>
+        <a href="<%= item.path %>">
+          <div class="l-box">
+            <img src="<%= thumbnail_path(item.children[0]) %>" alt="">
+          </div>
+          <strong><%= item.attributes[:title] %></strong>
+        </a>
+      </li>
     <% end %>
   </ul>
 <% end %>
