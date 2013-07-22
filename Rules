@@ -21,6 +21,16 @@ compile '/css/style/*' do
   # don’t filter or layout
 end
 
+compile '/js/*' do
+  # don’t filter or layout
+end
+
+# Image galleries.
+compile %r#^/bilder/\d{4}/[^/]+/$# do
+  layout 'image_gallery'
+  layout 'default'
+end
+
 compile '*' do
   if item.binary?
     # don’t filter binary items
@@ -37,6 +47,10 @@ end
 
 route '/css/*' do
   # No output
+end
+
+route '/js/*' do
+  item.identifier.chop + '.' + item[:extension]
 end
 
 route '*' do
