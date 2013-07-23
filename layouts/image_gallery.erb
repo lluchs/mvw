@@ -1,24 +1,22 @@
 <h1><%= item[:title] %> (<%= gallery_year(item) %>)</h1>
 
 <div class="s-gallery">
-  <div class="gallery">
-    <ul class="items--small">
-      <% item.children.each do |image| %>
-        <li class="item"><a href="#"><img src="<%= thumbnail_path(image) %>" alt=""></a></li>
-      <% end %>
-    </ul>
-    <ul class="items--big">
-      <% item.children.each do |image| %>
-        <li class="item--big"><a href="#"><img src="<%= image.path %>" alt=""></a></li>
-      <% end %>
-    </ul>
+  <ul class="items--small">
+    <% item.children.each do |image| %>
+      <li class="item"><a href="#"><img src="<%= thumbnail_path(image) %>" alt=""></a></li>
+    <% end %>
+  </ul>
+  <ul class="items--big">
+    <% item.children.each do |image| %>
+      <li class="item--big"><a href="#"><img src="<%= image.path %>" alt=""></a></li>
+    <% end %>
+  </ul>
 
-    <div class="controls">
-      <span class="control icon-arrow-left" data-direction="previous"></span> 
-      <span class="control icon-arrow-right" data-direction="next"></span> 
-      <span class="grid icon-grid"></span>
-      <span class="fs-toggle icon-fullscreen"></span>
-    </div>
+  <div class="controls">
+    <span class="control icon-arrow-left" data-direction="previous"></span> 
+    <span class="control icon-arrow-right" data-direction="next"></span> 
+    <span class="grid icon-grid"></span>
+    <span class="fs-toggle icon-fullscreen"></span>
   </div>
 </div>
 
@@ -26,7 +24,7 @@
 <script src="/js/screenfull.js"></script>
 <script src="/js/sgallery.js"></script>
 <script>
-  $('.s-gallery .gallery').sGallery({
+  $('.s-gallery').sGallery({
     fullScreenEnabled: true
   });
 </script>
