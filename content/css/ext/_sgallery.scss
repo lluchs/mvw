@@ -124,9 +124,12 @@
   margin-right: .5%
 }
 
-.s-gallery .item img,
+.s-gallery .item img {
+  max-height: 180px;
+}
+
 .s-gallery .item--big img {
-  width: 100%
+  width: 100%;
 }
 
 .s-gallery .items--big {
