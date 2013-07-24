@@ -16,14 +16,14 @@ subnav:
     title: Jugendkapelle
   - img: http://placehold.it/200x200
     url: ausbildung/
-    title: Instrumentalausbildung
+    title: Instrumental&shy;ausbildung
 ---
 
-<nav class="pure-g subnav">
+<nav class="pure-g-r subnav">
   <% @item[:subnav].each do |nav| %>
     <a href="<%= nav[:url] %>" class="pure-u-1-5">
-      <img src="<%= nav[:img] %>">
-      <strong><%= nav[:title] %></strong>
+      <div class="l-box"><img src="<%= nav[:img] %>"></div>
+      <div><strong><%= nav[:title] %></strong></div>
     </a>
   <% end %>
 </nav>
