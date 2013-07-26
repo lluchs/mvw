@@ -2,10 +2,8 @@
 title: Waldfest am Vatertag 2010
 date: Mai 2010
 sort: 2010-05-13
+headline: Rückblick auf das Waldfest 2010
 ---
-
-Rückblick auf das Waldfest 2010
-===============================
 
 Sonnenschein und warme Temperaturen hatten wir uns gewünscht, doch leider war das krasse Gegenteil der Fall. Schon am frühen Morgen war der Himmel wolkenbehangen und das änderte sich leider den ganzen Tag nicht. Unsere Biergarnituren im Freien waren umsonst, denn es regnete pausenlos. Doch davon ließen sich viele unserer regelmäßigen Festbesucher nicht abhalten und so konnten wenigstens die Musikkapellen ihre Beiträge vor einem vollen Festzelt präsentieren. Bei all unseren Besuchern wollen wir uns ganz, ganz herzlich bedanken, dass sie trotz des ungemütlichen Wetters den Weg zu uns gefunden haben.
 

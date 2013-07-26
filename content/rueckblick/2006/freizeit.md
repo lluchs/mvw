@@ -2,10 +2,8 @@
 title: Jugendfreizeit 2006
 date: November 2006
 sort: 2006-11-02
+headline: Rückblick auf die Jugendfreizeit 2006 in Nordrach
 ---
-
-Rückblick auf die Jugendfreizeit 2006 in Nordrach
-=================================================
 
 Der November 2006 startete für die Jungmusiker bzw. Jungmusikerinnen unseres Vereins mit einem ganz besonderen Highlight, nämlich mit der Jugendfreizeit 2006 in Nordrach. Auch in diesem Jahr waren wieder sämtliche Betten belegt, worüber sich unser Jugendleiter Philipp Kistner ganz besonders freute. 
 

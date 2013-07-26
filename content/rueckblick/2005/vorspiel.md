@@ -2,10 +2,8 @@
 title: Jugendvorspielnachmittag 2005
 date: März 2005
 sort: 2005-03-13
+headline: Rückblick auf den Jugendvorspielnachmittag 2005
 ---
-
-Rückblick auf den Jugendvorspielnachmittag 2005
-===============================================
 
 Der Jugendvorspielnachmittag des Musikvereins Würmersheim wird traditionell im Frühjahr veranstaltet und bietet den Jugendlichen eine Möglichkeit zur Präsentation ihres Leistungsstandes. Im Jahr 2005 fand der Vorspielnachmittag am Sonntag, den 13.März statt, wozu die Bläserjugend Freunde und Verwandte ins Gemeindezentrum Würmersheim einlud. 
 

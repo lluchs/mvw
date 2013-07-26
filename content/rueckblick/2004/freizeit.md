@@ -2,10 +2,8 @@
 title: Jugendfreizeit der Musikerjugend
 date: November 2004
 sort: 2004-11-01
+headline: Rückblick auf die Jugendfreizeit 2004 in Nordrach
 ---
-
-Rückblick auf die Jugendfreizeit 2004 in Nordrach
-=================================================
 
 Anfang November war es endlich so weit: Die Bläserjugend unseres Musikvereins machte sich auf den Weg zur Jugendfreizeit 2004 nach Nordrach. Ohne technische Pannen (man erinnert sich immer gerne an die legendäre Busfahrt nach Spanien) kamen alle Autos auf rund 460 m Höhe vor dem Freizeitheim St. Benedikt zum stehen. 
 

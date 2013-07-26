@@ -2,10 +2,8 @@
 title: Partnerschaftshock an der Grundschule
 date: Juni 2005
 sort: 2005-06-04
+headline: Rückblick auf den Partnerschaftshock 2005
 ---
-
-Rückblick auf den Partnerschaftshock 2005
-=========================================
 
 Am Samstag, den 04.06.2005 veranstaltete der Musikverein anläßlich des Besuchs aus Littlehampton einen Hock an der neuen Grundschule in Würmersheim. Bei strahlendem Sonnenschein trafen sich hier die englischen Gäste mit den Durmersheimer und Würmersheimer Gastfamilien. Hierzu war auch die Bevölkerung herzlich eingeladen. Für musikalische Unterhaltung sorgten Daniel Heck am Klavier, die Jugendkapelle, der Musikverein Durmersheim und natürlich unsere Gäste, die Littlehampton Concert Band. Um sich auf diesen Auftritt etwas vorzubereiten und da sie quasi nur mit der halben Mannschaft angereist waren, hatten die Littlehamptoner am Morgen eine Probe auf dem Chenneviere-Platz absolviert. 
 

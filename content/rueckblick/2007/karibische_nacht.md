@@ -2,10 +2,8 @@
 title: Karibische Nacht
 date: Juni 2007
 sort: 2007-06-02
+headline: Rückblick auf die karibische Nacht 2007
 ---
-
-Rückblick auf die karibische Nacht 2007
-=======================================
 
 Am Samstag, 02. Juni 2007, fand auf dem Schulhof der Würmersheimer Grundschule zum zweiten Mal ein Partnerschaftshock anläßlich des Besuchs der Gäste aus Littlehampton statt. Freundlicherweise hatte der Wettergott bei diesem Fest mit uns mehr Einsehen als beim Waldfest und so konnten wir mit vielen Besuchern und den Gästen den ersten Hock mit karibischer Nacht feiern. Neben der karibischen Deko auf dem Schulhof und am Cocktailstand, sorgten unsere Musikfreunde aus England mit ihren Hawaii-Hemden, die sie speziell für unser Fest besorgt hatten, für das nötige Flair. 
 

@@ -31,6 +31,13 @@ compile %r#^/bilder/\d{4}/[^/]+/$# do
   layout 'default'
 end
 
+# Rückblicke
+compile '/rueckblick/*' do
+  filter :kramdown
+  layout 'rueckblick'
+  layout 'default'
+end
+
 compile '*' do
   if item.binary?
     # don’t filter binary items

@@ -2,10 +2,8 @@
 title: Speckkälble-Rallye
 date: April 2006
 sort: 2006-04-22
+headline: Rückblick auf die Speckkälble-Rallye 2006
 ---
-
-Rückblick auf die Speckkälble-Rallye 2006
-=========================================
 
 Am Samstag, den 22.04.2006 trafen sich zahlreiche Jungmusiker und Jungmusikerinnen unseres Musikvereins am Gemeindezentrum, um an der 1. Würmersheimer Speckkälble-Rallye teilzunehmen. 
 

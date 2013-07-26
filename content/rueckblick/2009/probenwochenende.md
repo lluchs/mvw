@@ -2,10 +2,8 @@
 title: Probenwochenende 2009 der Gesamtkapelle
 date: April 2009
 sort: 2009-04-03
+headline: Rückblick auf das Probenwochenende 2009 (03. - 05.04.2009)
 ---
-
-Rückblick auf das Probenwochenende 2009 (03. - 05.04.2009)
-==========================================================
 
 Die Weltpolitik tagte in Baden-Baden und Straßburg, der Musikverein im schönen Lenzkirch. Trotz dieses Großereignisses in Baden-Baden erreichten wir ohne größere Staus und Wartezeiten am frühen Freitagabend unser Domizil für das Wochenende.
 

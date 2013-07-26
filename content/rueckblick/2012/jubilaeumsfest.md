@@ -2,10 +2,8 @@
 title: Jubiläumsfest 2012 an der Waldhütte zum 100jährigen Bestehen des Musikvereins 
 date: 17.-20. Mai 2012
 sort: 2012-05-17
+headline: Rückblick auf das Jubiläumsfest 2012 (17.-20.05.2012)
 ---
-
-Rückblick auf das Jubiläumsfest 2012 (17.-20.05.2012)
-=====================================================
 
 Eine enorme Leistung hat unser Verein Mitte Mai 2012 vollbracht. Ein 100-jähriges Jubiläum auf einem „Acker“ zu feiern konnte sich keiner so richtig vorstellen, doch wir haben es mit viel Anstrengung geschafft. Und wir haben es sehr gut geschafft.
 

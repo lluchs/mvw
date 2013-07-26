@@ -2,10 +2,8 @@
 title: Jugendfreizeit 2007
 date: Oktober/November 2008
 sort: 2008-10-30
+headline: Rückblick auf die Jugendfreizeit 2008
 ---
-
-Rückblick auf die Jugendfreizeit 2008
-=====================================
 
 MVW in Action – Unter diesem Motto fuhren auch im Jahr 2008 über 40 Musiker und Betreuer nach Nordrach, um dort vier aufregende Tage zu verbringen. Am Donnerstag, 30.10.2008 ging es los. Nachdem alle Kinder ihre Zimmer bezogen hatten und die Umgebung erkundet hatten, ging es, gestärkt durch ein Vesper, darum, sich spielerisch kennen zu lernen. Die Kinder merkten bald, dass all ihr schauspielerisches Talent gefragt sein wird. Direkt nach dem Frühsport am nächsten Morgen begann das Tischkickertunier und am Mittag wurde Fußball gespielt, so wurde die körperliche Verfassung der angehenden Talente getestet. Abends stand dann in Form von lustigen Spielen der Spaß im Vordergrund. 
 

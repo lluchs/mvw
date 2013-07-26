@@ -2,10 +2,8 @@
 title: 40 Jahre Jugendarbeit im MVW
 date: November 2007
 sort: 2007-11-01
+headline: Rückblick auf 40 Jahre Jugendarbeit im Musikverein Würmersheim
 ---
-
-Rückblick auf 40 Jahre Jugendarbeit im Musikverein Würmersheim
-==============================================================
 
 Der Musikverein „Harmonie“ Würmersheim durfte im Jahr 2007 auf das 40-jährige Bestehen der Jugendarbeit zurückblicken. Eine kleine aber feine Schar Würmersheimer Jungen und - man höre und staune - auch Mädchen stellte sich 1967 der Herausforderung unter den strengen Augen von Willy Heck ein Instrument erlernen zu wollen. Mädchen im Musikverein, dass war in den umliegenden Gemeinden in keinem anderen Verein denkbar. Ein Novum also, was 1967 in Würmersheim passierte. Doch bevor die angehenden Musiker/innen überhaupt ein Instrument in die Hand nehmen durften, ging es zuerst an die große Theorie der Musik. Man musste Noten lesen und schreiben lernen, Pausenzeichen, Notenschlüssel, Taktstriche usw. 
 

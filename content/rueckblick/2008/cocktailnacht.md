@@ -2,10 +2,8 @@
 title: Cocktailnacht 2008
 date: Juli 2008
 sort: 2008-07-26
+headline: Rückblick auf die 1. Würmersheimer Cocktailnacht 2008 (26.7.2008)
 ---
-
-Rückblick auf die 1. Würmersheimer Cocktailnacht 2008 (26.7.2008)
-=================================================================
 
 Zum Start in die Sommerferien hatten wir uns wieder etwas Besonderes ausgedacht und hofften auf regen Zuspruch aus der Bevölkerung. Dass die 1. Würmersheimer Cocktailnacht aber so einen Besucherstrom mit sich bringen würde, hätten wir selbst nicht zu träumen gewagt. Deshalb müssen wir uns zum einen bei all unseren Gästen für die längeren Wartezeiten entschuldigen, zum anderen aber wollen wir uns wirklich ganz herzlich bei ihnen allen für ihr Kommen und ihr Mitfeiern bedanken. Es war ein tolles Fest, die Stimmung war genial, und der Wettergott hat uns dieses Mal auch nicht im Stich gelassen. 
 

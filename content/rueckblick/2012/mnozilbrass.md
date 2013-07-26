@@ -2,10 +2,8 @@
 title: Mnozil-Brass-Matinee in der Durmersheimer Hardtsporthalle
 date: 18. März 2012
 sort: 2012-03-18
+headline: Rückblick auf das Mnozil-Brass-Konzert 2012 (18. März 2012)
 ---
-
-Rückblick auf das Mnozil-Brass-Konzert 2012 (18. März 2012)
-===========================================================
 
 Schlichtweg überwältigt waren mehr als 700 Zuhörer von der Sonntagmorgen-Matinee des Starensembles ‚Mnozil Brass‘ aus Österreich, das unser Musikverein am 18. März 2012 bereits zum zweiten Mal als Gastgeber in der Hardtsporthalle Durmersheim begrüßen durften.
 

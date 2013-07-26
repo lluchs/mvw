@@ -2,10 +2,8 @@
 title: Waldfest am Vatertag 2009
 date: Mai 2009
 sort: 2009-05-21
+headline: Rückblick auf das Waldfest 2009
 ---
-
-Rückblick auf das Waldfest 2009
-===============================
 
 Es war fast wie immer in den Jahren zuvor bei unserem Waldfest. Die Wetterprognosen versprachen, was sie nicht hielten. Sonne pur war angesagt, doch was kam war der Regen. Aber wir ließen uns vom Wetter nicht unterkriegen und standen schon mit Lappen und Tüchern parat, um die Festgarnituren für die nächsten Gäste wieder trocken zu bekommen. Und viele Gäste haben auch an diesem Tag den Weg zu uns gefunden. Dafür wollen wir uns bei allen aus Nah und Fern ganz herzlich bedanken.
 

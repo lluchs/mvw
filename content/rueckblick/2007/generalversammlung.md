@@ -2,10 +2,8 @@
 title: Generalversammlung 2007
 date: März 2007
 sort: 2007-03-23
+headline: Rückblick auf die Generalversammlung 2007
 ---
-
-Rückblick auf die Generalversammlung 2007
-=========================================
 
 Informativ, kurz und schmerzlos verlief die Generalversammlung 2007 mit Neuwahlen, die am Freitag, den 23. März 2007 im Gemeindezentrum stattfand und durch einen durchweg positiven Verlauf gekennzeichnet war.
   

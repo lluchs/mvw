@@ -2,10 +2,8 @@
 title: Waldfest am Vatertag 2011
 date: 2. Juni 2011
 sort: 2011-06-02
+headline: Rückblick auf das Waldfest 2011
 ---
-
-Rückblick auf das Waldfest 2011
-===============================
 
 Langersehnt und hoch verdient haben wir im Jahr 2011 endlich wieder ein wunderschönes Waldfest gefeiert. Ob es am vorverlegten Aufbautermin, an der Privatfete am Vorabend oder einfach nur daran gelegen hat, dass der liebe Gott ein Einsehen mit uns hatte - wir wissen es nicht. Aber wir wissen, dass in diesem Jahr einfach alles gepasst hat:
 

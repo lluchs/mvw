@@ -2,10 +2,8 @@
 title: Fußball-Freundschaftsspiel gegen Au am Rhein
 date: Juni 2006
 sort: 2006-06-24
+headline: Rückblick auf das Fußball-Freundschaftsspiel gegen den MV Au am Rhein im Juni 2006
 ---
-
-Rückblick auf das Fußball-Freundschaftsspiel gegen den MV Au am Rhein im Juni 2006
-==================================================================================
 
 Am Samstag, den 24. Juni 2006 fand auf dem Würmersheimer Sportplatz ein Fußballspiel der besonderen Art statt. Die Mannschaft unseres Vereins traf auf eine Auswahlmannschaft vom Musikverein Au am Rhein. Nachdem ein Jahr zuvor das erste verbandsweite Jugendkapellenfußballturnier in Würmersheim stattgefunden hat und unsere Jugendkapelle das Turnier sensationell gewonnen hatte, sollte es nach dem Willen der beiden Vereinen im Jahr 2006 zu einem prestigeträchtigen Lokalderby kommen.
 

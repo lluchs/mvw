@@ -2,10 +2,8 @@
 title: Waldfest 2005
 date: Mai 2005
 sort: 2005-05-05
+headline: Rückblick auf das Waldfest 2005
 ---
-
-Rückblick auf das Waldfest 2005
-===============================
 
 Nach so viel Sonnenschein in den Jahren zuvor, hatten wir im Jahr 2005 an allen Tagen die Möglichkeit, einen Schwimmschein abzulegen. Es war schön, zu erfahren, dass sich weder Helfer noch Besucher unseres Festes vom Grau am Himmel anstecken und abschrecken ließen! Wahrscheinlich konnten sich dank dieser guten Stimmung am Nachmittag auch die letzten Regenwolken nicht mehr über der Waldhütte halten. Für diese gute Stimmung sorgten natürlich auch die zahlreichen Musikkapellen, die bei uns zu Gast waren. Wir sind besonders stolz, dass neben unserer Gesamtkapelle und der allseits beleibten Oberkrainer-Besetzung das restliche musikalische Programm völlig in den Händen der Jugend aus Würmersheim, Au am Rhein, Weingarten und Elchesheim lag, die unsere Gäste den Nachmittag über hervorragend unterhalten hat! 
 

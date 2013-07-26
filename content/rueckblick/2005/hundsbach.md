@@ -2,10 +2,8 @@
 title: Musikerausflug nach Hundsbach
 date: Juni 2005
 sort: 2005-06-30
+headline: Rückblick auf den Musikerausflug nach Hundsbach 2005
 ---
-
-Rückblick auf den Musikerausflug nach Hundsbach 2005
-====================================================
 
 Der letzte Auftritt der Seniorenkapelle vor der Sommerpause 2005 beim MV Hundsbach am 30. Juli 2005 wurde mit einem kleinen Musikerausflug verbunden. So startete gegen 11.00 Uhr eine kleine, aber feine Schar unerschrockener Wanderer Richtung Schwarzwald. In Hundsbach angekommen unternahmen die Naturfreunde eine kleine Wanderung zu Willy Heck. Nachdem alle dort angekommen waren – manche auf "Umwegen" durch den schönen Schwarzwald, andere auf direktem Weg – und sich alle kräftig mit Brezeln und Getränken gestärkt hatten, machten sich die Teilnehmer auf den Rückweg zum Festplatz. Dort wartete bereits der Höhepunkt des Tages: der Sensenmähwettbewerb des Musikvereins Hundsbach. Es galt dort ein Stück 3x7 m großes Wiesenstück mit der Sense abzumähen. Mit Leopold, Peter, Joachim und Daniel fanden sich auch aus dem Musikverein Würmersheim Männer, die des Sensenmähens kundig waren und sich mutig der Konkurrenz stellten.
 

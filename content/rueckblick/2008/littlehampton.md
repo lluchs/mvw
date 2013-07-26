@@ -2,10 +2,8 @@
 title: Littlehampton-Fahrt der Gesamtkapelle
 date: Juli 2008
 sort: 2008-07-10
+headline: Rückblick auf die Littlehampton-Fahrt 2008 (10.7. - 13.7.2008)
 ---
-
-Rückblick auf die Littlehampton-Fahrt 2008 (10.7. - 13.7.2008)
-==============================================================
 
 Am 10.07.2008 herrschte reges Treiben vor dem Gemeindezentrum Würmersheim. Die Aktiven der Gesamtkapelle und ein kleiner Fanclub hatten sich dort pünktlich um 00.30 Uhr  eingefunden, um gemeinsam eine Fahrt nach Littlehampton zu machen. Nachdem alle Gepäckstücke und Musikinstrumente wider Erwarten im Gepäckraum Platz gefunden hatten, ging die lange Fahrt los. Wir fuhren bei Iffezheim über die Staustufe in unser Nachbarland Frankreich. Planmäßig erreichten wir gegen 10.00 Uhr die Hafenstadt Calais. Von dort setzten wir mit der Fähre über nach England. Von Dover ging es ca. drei Stunden an der Küste entlang, bis wir gegen 17.00 Uhr pünktlich in Littlehampton ankamen. Dort wurden wir schon von Peter Laverick, Ray Skingley, John Wyatt und Jan de Landtsheer erwartet. Nach einer herzlichen Begrüßung fuhren wir zu St. Marys in Littlehampton. Dort  wurden wir von allen anderen englischen Gastgebern und dem "Major" offiziell willkommen geheißen, und mit Speis und Trank  wurde auch für unser leibliches Wohl gesorgt. Danach begaben sich alle Musiker und der kleine Fanclub in ihr Domizil für die nächsten drei Tage.
 

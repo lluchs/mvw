@@ -2,10 +2,8 @@
 title: Wümersheimer Straßenfest 2004
 date: Sommer 2004
 sort: 2004-07-21
+headline: Rückblick auf das Würmersheimer Straßenfest 2004
 ---
-
-Rückblick auf das Würmersheimer Straßenfest 2004
-================================================
 
 Pünktlich zum Aufbau hatte das Wetter ein Einsehen mit allen Helfern und Freunden unseres Musikvereins. Bei strahlendem Sonnenschein bauten viele fleißige Helfer unser Zelt in der Mozartstraße auf, während andere noch die letzten Vorbereitungen für den schon ungeduldig erwarteten Besuch aus Ruwer trafen. Nachdem sämtliche Handys, die auf den Ruwer-Anruf warteten, mehrfach überprüft und die letzten Handgriffe für den geselligen Abend an der Waldhütte getätigt waren, kam auch schon die Nachricht "wir sind jetzt bei Karlsruhe". Das perfekte Timing. Schnell wurden alle Gasteltern verständigt und schon konnte der Bus mit den Freunden aus Ruwer am Sportplatz mit großem "Hallo" empfangen werden. Nach dem wirklich jeder sein Quartier für die kommenden zwei Nächte bezogen hatte, trafen sich alle an der Waldhütte, um das Wiedersehen ausgiebig zu feiern. Die Freude war so groß, dass selbst zahlreiche saugende Flugobjekte die Stimmung nicht trüben konnten (schließlich waren wir auch dafür bestens gerüstet!). Bei gutem Essen und - dank schneller Organisation - ausreichend Getränken sowie musikalischer Unterhaltung durch eine kleine Schar Würmersheimer und Ruwerer wurde bis spät in die Nacht gefeiert. 
 

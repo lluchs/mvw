@@ -2,10 +2,8 @@
 title: Generalversammlung 2011
 date: 8. April 2011
 sort: 2011-04-08
+headline: Rückblick auf die Generalversammlung 2011
 ---
-
-Rückblick auf die Generalversammlung 2011
-=========================================
 
 Informativ, kurz und schmerzlos verlief die Generalversammlung 2011, die am Freitag, den 08. April 2011 im Gemeindezentrum Würmersheim stattfand und durch einen durchweg positiven Verlauf gekennzeichnet war. 
 

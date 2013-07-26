@@ -2,10 +2,8 @@
 title: Generalversammlung 2005
 date: März 2005
 sort: 2005-03-18
+headline: Rückblick auf die Generalversammlung 2005
 ---
-
-Rückblick auf die Generalversammlung 2005
-=========================================
 
 Informativ, kurz und "schmerzlos" verlief die Generalversammlung, die am Freitag, den 18. März 2005 im - leider spärlich besetzten - Gemeindezentrum stattfand und durch einen durchweg positiven Verlauf gekennzeichnet war. 
 

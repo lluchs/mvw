@@ -2,10 +2,8 @@
 title: Straßenfest in Würmersheim
 date: Juli 2010
 sort: 2010-06-17
+headline: Rückblick auf das Würmersheimer Strassenfest 2010 (17. & 18. Juli 2010)
 ---
-
-Rückblick auf das Würmersheimer Strassenfest 2010 (17. & 18. Juli 2010)
-=======================================================================
 
 Zwei Tage Blasmusik hatten wir unseren Gästen versprochen und wir haben Sie hoffentlich nicht enttäuscht. Die gute Stimmung und das schöne Wetter haben zum Gelingen des Würmersheimer Speckkälblefestes 2010 beigetragen. Dank der vielen freiwilligen Helfer, die uns durch Salatspenden oder ihre Mithilfe hinter den einzelnen Ständen unterstützt haben, konnten wir den Andrang der Gäste mühelos bewältigen. 
 

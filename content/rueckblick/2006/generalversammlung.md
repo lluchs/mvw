@@ -2,10 +2,8 @@
 title: Generalversammlung 2006
 date: März 2006
 sort: 2006-03-17
+headline: Rückblick auf die Generalversammlung 2006
 ---
-
-Rückblick auf die Generalversammlung 2006
-=========================================
 
 Informativ, kurz und "schmerzlos" verlief die Generalversammlung 2006, die am Freitag, den 17. März 2006 im - leider spärlich besetzten - Gemeindezentrum stattfand und durch einen durchweg positiven Verlauf gekennzeichnet war.
 

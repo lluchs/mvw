@@ -2,10 +2,8 @@
 title: Bäretriewerfest 2009 in Durmersheim
 date: Juli 2009
 sort: 2009-06-18
+headline: Rückblick auf das Bäretriewerfest 2009 (18. - 19.07.2009)
 ---
-
-Rückblick auf das Bäretriewerfest 2009 (18. - 19.07.2009)
-=========================================================
 
 Die Wetterprognosen waren schlecht und noch am Samstag um die Mittagszeit regnete es wie aus Kübeln. Doch was folgte, war ein Fest, das viele, viele, viele Besucher anzog. So hatten auch die Helfer an unseren Cocktailständen jede Menge zu tun. Der Besucherandrang war groß und am Sonntagabend sah man nur zufriedene Gesichter. 
 

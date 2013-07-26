@@ -2,10 +2,8 @@
 title: Waldfest 2007
 date: Mai 2007
 sort: 2007-05-17
+headline: Rückblick auf das Waldfest 2007
 ---
-
-Rückblick auf das Waldfest 2007
-===============================
 
 Und schon wieder kein schönes Wetter, dafür aber viel Regen! Es war schön, zu sehen, dass sich weder Helfer noch die zahlreichen Besucher unseres Festes vom Grau am Himmel anstecken und abschrecken ließen! Für die gute Stimmung sorgten natürlich auch die zahlreichen Musikkapellen, die bei uns zu Gast waren: ganz besonders möchten wir uns an dieser Stelle bei unseren Oberkrainern bedanken, die es immer wieder schaffen, einen Riesenstimmung ins Zelt zu zaubern! 
 

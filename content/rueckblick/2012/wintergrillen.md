@@ -2,10 +2,8 @@
 title: Wintergrillen der Gesamtkapelle an der Waldhütte Würmersheim
 date: 03. März 2012
 sort: 2012-03-03
+headline: Kurzrückblick auf das Wintergrillen der Gesamtkapelle am 03. März 2012
 ---
-
-Kurzrückblick auf das Wintergrillen der Gesamtkapelle am 03. März 2012
-======================================================================
 
 Mit dem ersten Wintergrillen in der 100jährigen Vereinsgeschichte hat sich die Gesamtkapelle Anfang März 2012 auf die bevorstehenden Feierlichkeiten anlässlich des Jubiläumsjahres 2012 an der Würmersheimer Waldhütte eingestimmt.
 

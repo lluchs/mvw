@@ -2,10 +2,8 @@
 title: Cocktailnacht an der Würmersheimer Grundschule 2011
 date: 16. Juli 2011
 sort: 2011-07-16
+headline: Rückblick auf die Cocktailnacht 2011
 ---
-
-Rückblick auf die Cocktailnacht 2011
-====================================
 
 Ein wunderschönes Fest konnten wir am 16. Juli 2011 mit vielen lieben Gästen feiern. Zum wiederholten Male schon haben wir den Schulhof mit karibischem Flair ausgestattet. Das Wetter tat ein übriges dazu und so strömten die Gäste scharenweise zur Cocktailnacht unseres Vereins. Viele, viele fleißige Hände waren nötig, um den Andrang zu bewältigen und trotzdem bildeten sich manchmal Schlangen vor den Cocktailständen. Einmal, weil einfach zuviele Cocktails gleichzeitig bestellt wurde, ein anderes Mal gab es kein Eis mehr, aber am schlimmsten war, dass uns manchmal die Gläser ausgegangen waren. So gab es  hektisches Treiben in den Ständen, aber Gott sei Dank hatten wir sehr verständnisvolle Gäste, die mit großer Geduld auf den Nachschub warteten.
 
