@@ -1,3 +1,10 @@
 <h1><%= item[:headline] %></h1>
 
+<% unless (media = get_media_items_for(item)).empty? %>
+  <h2>Presse</h2>
+  <% media.each do |m| %>
+    <img src="<%= m.path %>" alt="">
+  <% end %>
+<% end %>
+
 <%= yield %>
