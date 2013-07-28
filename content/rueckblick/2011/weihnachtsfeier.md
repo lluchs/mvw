@@ -3,6 +3,7 @@ title: Weihnachtsfeier 2011
 date: 17. Dezember 2011
 sort: 2011-12-17
 headline: Rückblick auf die Weihnachtsfeier 2011 (17.12.2011)
+media: „Badische Neueste Nachrichten“ (BNN), 20.12.2011
 ---
 
 Im gut besuchten Gemeindezentrum fand die Weihnachtsfeier 2011 des Musikvereins Würmersheim statt. Eingeleitet wurde dieser Abend durch unsere Vorsitzende Daniela Ganz, die alle Gäste aufs Herzlichste begrüßte. Hinter den Kulissen fieberten die Flötenkinder schon mit ihren Ausbilderinnen Julia Schorpp und Marie Daebel ihrem Auftritt entgegen, der weihnachtliche Stimmung in den Saal brachte.

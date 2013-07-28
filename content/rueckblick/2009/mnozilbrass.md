@@ -3,6 +3,7 @@ title: Mnozil-Brass-Konzert in der Durmersheimer Hardtsporthalle
 date: Oktober 2009
 sort: 2009-10-18
 headline: Rückblick auf das Mnozil-Brass-Konzert 2009 (18. Oktober 2009)
+media: „Badische Neueste Nachrichten“ (BNN), 21.10.2009
 ---
 
 Viele fleißige Helfer verwandelten die Hardtsporthalle Ende Oktober 2009 in einen „Konzertsaal“ und was am Konzertag folgte, war ein wahres Fest für die Augen und Ohren der mit 600 Gästen restlos ausverkauften Veranstaltung. Der Musikverein Würmersheim präsentierte die österreichische Formation Mnozil Brass, die mittlerweile auf der ganzen Welt zuhause und bekannt ist. Als Zuschauer war man sprachlos, gebannt von den Ereignissen, die sich auf der Bühne abspielten. Die sieben Musiker, die auch gesangliche und schauspielerische Fähigkeiten besitzen spulten an Feuerwerk an Höhepunkten ab, das seinesgleichen sucht. Musik zu machen ist eine Sache, aber perfekte Töne aus Trompete, Tuba, Posaune hervorzuzaubern und dabei gleichzeitig als Cowboy  über die Bühne zu reiten ist einfach Extraklasse. 

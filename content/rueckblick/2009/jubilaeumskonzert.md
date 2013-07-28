@@ -3,6 +3,7 @@ title: Jubiläumskonzert "25 Jahre Dirigat Joachim Heck"
 date: Oktober 2009
 sort: 2009-10-24
 headline: Rückblick auf das Jubiläumskonzert "25 Jahre Dirigat Joachim Heck" (24.10.2009)
+media: „Badische Neueste Nachrichten“ (BNN), 29.10.2009
 ---
 
 Die Festlichkeit für das Dirigentenjubiläum von unserem Joachim Heck wurde Ende Oktober 2009 im Gemeindezentrum Würmersheim gefeiert. Den Saal hatten wir mit vielen Fotos der letzten 25 Jahre unseres Jubilars Joachim geschmückt, auf denen auch viele ehemalige Musiker unseres Vereins zu finden waren. Mit der Ouvertüre Caesar und Cleopatra eröffnete die Gesamtkapelle den Abend. Danach begrüßte die 1. Vorsitzende Daniela Ganz die Zuschauer und hielt einen Rückblick über den musikalischen Lebenslauf von Joachim. 

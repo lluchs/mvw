@@ -3,6 +3,7 @@ title: Wertungsspiel der Jugendkapelle in Spanien
 date: Mai/Juni 2004
 sort: 2004-05-29
 headline: Rückblick auf die Spanienreise der Jugendkapelle 2004
+media: „Badische Neueste Nachrichten“ (BNN), 11.06.2004
 ---
 
 Am Samstag, den 29. Mai 2004 brach die Würmersheimer Jugendkapelle Richtung Spanien auf, um dort neue musikalische Erfahrungen zu sammeln. Unsere Vorfreude wurde allerdings nach 14 Stunden Busfahrt, rund eine Stunde vor unserem Ziel, drastisch getrübt: verweigerte doch der 4-Sterne-Bus auf einem Rasthof kurz hinter der spanischen Grenzen seine Dienste! So kam es, dass wir insgesamt vier Stunden auf einen Ersatzbus warten mussten, wodurch unsere Nerven bereits vor der Ankunft in Calella bis zum Anschlag strapaziert wurden. 

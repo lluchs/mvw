@@ -3,6 +3,7 @@ title: Jugendvorspielnachmittag 2006
 date: März 2006
 sort: 2006-03-26
 headline: Rückblick auf den Jugendvorspielnachmittag 2006
+media: „Badische Neueste Nachrichten“ (BNN), 28.03.2006
 ---
 
 Am Sonntag, den 26. März, fand im vollbesetzten Gemeindezentrum der traditionelle Jugendvorspielnachmittag unseres Vereins statt, zu dem die Bläserjugend Verwandte und Freunde geladen hatte, um ihren Leistungsstand zu präsentieren.

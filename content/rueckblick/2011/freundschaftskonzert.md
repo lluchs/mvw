@@ -1,8 +1,9 @@
 ---
 title: Freundschaftskonzert mit der Kirchenmusik Escholzmatt
-date: 7. Mail 2011
+date: 7. Mai 2011
 sort: 2011-05-07
 headline: Rückblick auf das Freundschaftskonzert mit der Kirchenmusik Escholzmatt im Mai 2011
+media: „Badische Neueste Nachrichten“ (BNN), 09.05.2011
 ---
 
 "Freundschaftskonzert Kirchenmusik Escholzmatt - MV Harmonie Würmersheim"; unter diesem Motto verbrachten zwei sich bis dahin unbekannte Musikkapellen ein gemeinsames Wochenende (6. - 8.  Mai 2011) und legten den Grundstein für eine wunderbare Freundschaft. 

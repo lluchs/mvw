@@ -3,6 +3,7 @@ title: Weihnachtsfeier 2004
 date: Dezember 2004
 sort: 2004-12-18
 headline: Rückblick auf die Weihnachtsfeier 2004
+media: „Badische Neueste Nachrichten“ (BNN), 21.12.2004
 ---
 
 Am 18. Dezember 2004 fand im voll besetzten Gemeindezentrum Würmersheim die traditionelle Weihnachtsfeier unseres Musikvereins zusammen mit dem ortsansässigen Obst -und Gartenbauverein statt. Da das Theaterstück ausfallen musste, galt alle Aufmerksamkeit des Abends der Entfaltung des musikalischen Könnens. So gestaltete unsere große Jugendabteilung, angefangen von den Blockflötengruppen unter der Leitung von Sarah Grüßinger, der Schülerkapelle mit ihrem Dirigenten Peter Dunz und der von Oliver Forster geführten Jugendkapelle, den gesamten ersten Programmteil. Abgerundet wurde dieser erste Teil durch die beeindruckenden Darbietungen des – mittlerweile bühnenfüllenden – Blechbläser-Jugendensembles und einem Saxophon-Trio. Natürlich gab es auch in diesem Jahr wieder zahlreiche Ehrungen im Bereich der Jugend, die Jugendleiter Philipp Kistner übernahm. So zeichnete er die fleißigsten Probebesucher der Jugendkapelle des vergangenen Jahres aus. In der Einzelwertung errang Nikolas Rauch mit 38 von 39 möglichen Probebesuchen die unangefochtene Spitze. Den Registerpokal, der für das "probenfleißigste" Register überreicht wird, gewann in diesem Jahr das tiefe Blech. Einen Sonderpreis der Jugend übergab Philipp Kistner an Kevin Fitterer als Dank für das außergewöhnliche Engagement bei Veranstaltungen. 

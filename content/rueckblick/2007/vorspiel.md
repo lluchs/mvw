@@ -3,6 +3,7 @@ title: Jugendvorspielnachmittag 2007
 date: März 2007
 sort: 2007-03-25
 headline: Rückblick auf den Jugendvorspielnachmittag 2007
+media: „Badische Neueste Nachrichten“ (BNN), 27.03.2007
 ---
 
 Der Vorspielnachmittag 2007 der Jugend des Musikvereins Würmersheim war, wie in den Jahren zuvor, wieder ein voller Erfolg. Durch die Vielfalt der Darbietungen entstand ein bunt gemischter Nachmittag. 

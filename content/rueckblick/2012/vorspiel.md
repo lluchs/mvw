@@ -2,9 +2,9 @@
 title: Jugendvorspielnachmittag 2012 im Gemeindezentrum Würmersheim
 date: 25. März 2012
 sort: 2012-03-25
+headline: Rückblick auf den Jugendvorspielnachmittag 2012 (25.03.2012)
+media: „Badische Neueste Nachrichten“ (BNN), 27.03.2012
 ---
-
-Rückblick auf den Jugendvorspielnachmittag 2012 (25.03.2012)
 
 Am letzten Sonntag im März fand der Vorspielnachmittag 2012 der Musikerjugend unseres Vereins statt. Trotz des schönen Wetters kamen viele interessierte Zuhörer, denen ein abwechslungsreiches Musikprogramm geboten wurde.
 

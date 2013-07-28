@@ -3,6 +3,7 @@ title: Weihnachtsfeier 2007
 date: Dezember 2007
 sort: 2007-12-15
 headline: Rückblick auf die Weihnachtsfeier 2007
+media: „Badische Neueste Nachrichten“ (BNN), 19.12.2007
 ---
 
 Am Samstag, den 15.12.2007 fand im Gemeindezentrum Würmersheim unsere Weihnachtsfeier 2007 statt. Viele verschiedene Gruppierungen hatten sich in den Proben intensiv auf diesen Abend vorbereitet. Den Beginn machten unsere Jüngsten- die Kinder aus der musikalischen Früherziehung unter der Leitung von Joachim Heck. Begleitet von einer Bläsergruppe führten sie das Stück "Die Wahl zum Tier des Jahres Null" auf. Schon hier wurde deutlich, dass sich einige Kinder darunter befinden, die die Musik im Blut haben. Voller Inbrunst spielten und sangen sie und erhielten dafür hinterher auch den gebührenden Applaus. 
