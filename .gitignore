@@ -1,6 +1,7 @@
 output
 tmp
 .sass-cache
+crash.log
 
 content/bilder
 content/presse
