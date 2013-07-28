@@ -5,6 +5,7 @@
   <% media.each do |m| %>
     <img src="<%= m.path %>" alt="">
   <% end %>
+  <div class="caption"><%= item[:media] %></div>
 <% end %>
 
 <%= yield %>
