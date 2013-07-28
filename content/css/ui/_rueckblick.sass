@@ -1,0 +1,15 @@
+// Rückblick
+
+// Rückblick/Presse toggling functionality
+#presse
+  display: none
+
+  // In case there is no other content.
+  &.visible
+    display: block
+
+#presse:target
+  display: block
+
+  & + #rueckblick
+    display: none

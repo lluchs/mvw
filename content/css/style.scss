@@ -4,14 +4,16 @@
 
 // S Gallery
 @import "ext/sgallery";
+// Pure overrides
+@import "ui/pure";
 
 // Layout
 @import "ui/header";
 @import "ui/content";
 @import "ui/footer";
 
-// Bilder
 @import "ui/bilder";
+@import "ui/rueckblick";
 
 html {
   line-height: 1.6;
@@ -21,7 +23,7 @@ body {
   min-width: 550px;
 }
 
-a:link, a:visited {
+a, a:visited {
   color: #2366AD;
 }
 

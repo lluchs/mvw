@@ -1,11 +1,24 @@
 <h1><%= item[:headline] %></h1>
 
 <% unless (media = get_media_items_for(item)).empty? %>
-  <h2>Presse</h2>
-  <% media.each do |m| %>
-    <img src="<%= m.path %>" alt="">
+  <% unless item[:no_content] %>
+    <nav class="pure-menu pure-menu-open pure-menu-horizontal">
+      <ul>
+        <li><a href="#rueckblick">Rückblick</a></li>
+        <li><a href="#presse">Presse</a></li>
+      </ul>
+    </nav>
   <% end %>
-  <div class="caption"><%= item[:media] %></div>
+
+  <section id="presse" class="<%= item[:no_content] ? 'visible' : '' %>">
+    <h2>Presse</h2>
+    <% media.each do |m| %>
+      <img src="<%= m.path %>" alt="">
+    <% end %>
+    <div class="caption"><%= item[:media] %></div>
+  </section>
 <% end %>
 
-<%= yield %>
+<section id="rueckblick">
+  <%= yield %>
+</section>
