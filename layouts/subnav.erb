@@ -1,0 +1,15 @@
+<%
+  # Sub navigation partial
+  # Expected argument:
+  #  - navitems: array of navigation items containing img, url and title.
+%>
+
+<nav class="pure-g-r subnav">
+  <% @navitems.each do |nav| %>
+    <a href="<%= nav[:url] %>" class="pure-u-1-<%= @navitems.size %>">
+      <div class="l-box"><img src="<%= nav[:img] %>"></div>
+      <div><strong><%= nav[:title] %></strong></div>
+    </a>
+  <% end %>
+</nav>
+

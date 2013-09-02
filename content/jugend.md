@@ -19,14 +19,7 @@ subnav:
     title: Instrumental&shy;ausbildung
 ---
 
-<nav class="pure-g-r subnav">
-  <% @item[:subnav].each do |nav| %>
-    <a href="<%= nav[:url] %>" class="pure-u-1-5">
-      <div class="l-box"><img src="<%= nav[:img] %>"></div>
-      <div><strong><%= nav[:title] %></strong></div>
-    </a>
-  <% end %>
-</nav>
+<%= render 'subnav', navitems: @item[:subnav] %>
 
 Seit vielen Jahren ist die Instrumentalausbildung ein wesentlicher Bestandteil der Jugendarbeit beim Musikverein Würmersheim. Die Ausbildung der Jungmusiker wird von professionellen Musiklehrern und Musikern des Vereins übernommen. Derzeit befinden sich über 100 Kinder und Jugendliche beim Musikverein Würmersheim in der Ausbildung. Verantwortlich für die Organisation der Instrumentalausbildung ist der ehemalige Dirigent der Jugendkapelle, Daniel Heck.
 
