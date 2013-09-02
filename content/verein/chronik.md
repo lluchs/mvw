@@ -36,3 +36,26 @@ Das 40-jährige Jubiläumsfest des Vereins entfaltete sich zu einem Gemeindefest
 Nach und nach stellten sich aber immer größer werdende Nachwuchssorgen ein. Neue Wege wurden gesucht um junge Menschen für die Musik zu begeistern. Aus diesem Grund wurde im Jahre 1967/68 die Nachwuchsausbildung begonnen. Besonderer Dank gebührt hier dem damaligen 1. Vorsitzenden Emil Schorpp und dem Musikervorstand Willy Heck. Im Jahre 2007 konnte das 40-jährige Bestehen der Jugendarbeit in festlichem Rahmen gefeiert werden. Hierzu spielte auch eine Revival-Band die aus einigen der damaligen Anfängern bestand.
 
 Heute können wir mit Stolz auf unsere Jugend sehen. Selbst die Kleinsten werden in der musikalischen Früherziehung der Musik näher gebracht. Unsere musikalische Ausbildung erstreckt sich von  der musikalischen Früherziehung über den Blockflötenunterricht bis zum Erlernen eines Holz- Blech- oder Schlaginstruments. Dieser Unterricht kann sowohl in Einzelunterricht wie auch in Gruppenunterricht erfolgen. Je nach Können und Fähigkeiten musizieren die Jugendlichen in der Schüler- Jugend- oder Gesamtkapelle. Den hohen Leistungsstand unsere Jugendkapelle erkennen Sie daran, dass sie beim internationalen Wettbewerb in Spanien den 2. Platz belegt hat. Derzeit werden im Musikverein Würmersheim über 150 Kinder und Jugendliche ausgebildet. Diese intensive Jugendarbeit sichert den Fortbestand des Musikvereins Harmonie Würmersheim.
+
+<span class="tmp">Mit dem Vorstandswechsel im Jahr 2013 wurde die Satzung des Musikvereins aktualisiert. [...]</span>
+
+
+## Bisherige Vorsitzende
+
+Seit der Gründung unseres Vereins im Jahre 1922 hatten wir folgende erste Vorsitzende:
+
+1922 – 1923 | Albert Merx
+1923 – 1929 | Friedrich Eisen
+1929 – 1934 | Josef Weßbecher
+1934 – 1935 | Friedrich Eisen
+1935 – 1951 | Heinrich Wessbecher
+1951 – 1954 | Ludwig Bader
+1954 – 1963 | Rudolf Stürmlinger
+1963 – 1973 | Emil Schorpp
+1973 – 1976 | Walter Ganz
+1976 – 1985 | Anton Helmstätter
+1985 – 1988 | Günter Störmer
+1988 – 1998 | Willy Heck
+1998 – 2004 | Lothar Schlager
+2004 – 2013 | Daniela Ganz
+Seit 2013   | Benjamin Heck
