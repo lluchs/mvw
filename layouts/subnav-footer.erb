@@ -1,0 +1,13 @@
+<%
+  # Sub navigation footer partial
+  # Expected argument:
+  #  - prefix:   url prefix
+  #  - navitems: array of navigation items containing img, url and title.
+%>
+
+<ul>
+  <% @navitems.each do |nav| %>
+    <li><a href="<%= @prefix %><%= nav[:url] %>"><%= nav[:title] %></a></li>
+  <% end %>
+</ul>
+
