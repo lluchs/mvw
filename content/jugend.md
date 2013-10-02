@@ -2,19 +2,19 @@
 title: Jugend
 
 subnav:
-  - img: http://placehold.it/200x200
+  - img: /images/jugend/nav/frueherziehung.jpg
     url: frueherziehung/
     title: Früherziehung
-  - img: http://placehold.it/200x200
+  - img: /images/jugend/nav/blockfloeten.jpg
     url: blockfloeten/
     title: Blockflöten
-  - img: http://placehold.it/200x200
+  - img: /images/jugend/nav/schuelerkapelle.jpg
     url: schuelerkapelle/
     title: Schülerkapelle
-  - img: http://placehold.it/200x200
+  - img: /images/jugend/nav/jugendkapelle.jpg
     url: jugendkapelle/
     title: Jugendkapelle
-  - img: http://placehold.it/200x200
+  - img: /images/jugend/nav/instrumentalausbildung.jpg
     url: ausbildung/
     title: Instrumental&shy;ausbildung
 ---
