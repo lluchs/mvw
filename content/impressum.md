@@ -6,6 +6,11 @@ title: Impressum
 
 Musikverein "Harmonie" Würmersheim e.V.
 
+Benjamin Heck<br>
+Auer Str. 20/4<br>
+76448 Würmersheim<br>
+Tel.: 0172 6728744<br>
+
 ## Hinweise:
 
 Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte übernehmen wir jedoch keine Gewähr. Gemäß § 6 Abs.1 MDStV und § 8 Abs.1 TDG sind wir nur für den Inhalt unserer eigenen Seiten verantwortlich. Wir sind jedoch nicht verpflichtet, die von Dritten übermittelten oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
