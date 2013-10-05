@@ -11,10 +11,10 @@ subnav:
   - img: http://placehold.it/200x200
     url: verwaltung/
     title: Verwaltung
-  - img: http://placehold.it/200x200
+  - img: /images/verein/nav/chronik.jpg
     url: chronik/
     title: Chronik
-  - img: http://placehold.it/200x200
+  - img: /images/verein/nav/mitgliedschaft.jpg
     url: mitgliedschaft/
     title: Mitglied werden
 ---
