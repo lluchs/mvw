@@ -5,7 +5,7 @@ subnav:
   - img: http://placehold.it/200x200
     url: dirigenten/
     title: Dirigenten
-  - img: http://placehold.it/200x200
+  - img: /images/verein/nav/musiker.jpg
     url: musiker/
     title: Musiker
   - img: http://placehold.it/200x200
