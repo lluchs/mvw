@@ -22,5 +22,4 @@ Markus Bruschke ist seit dem Herbst 2013 der Dirigent der Gesamtkapelle.
 <img src="/images/verein/joachim.jpg" alt="Joachim Heck">
 </div>
 
-Zuvor war **Joachim Heck** 28 Jahre lang Dirigent des MV Würmersheim. Er bestritt dabei zahlreiche Auftritte und Konzerte, sowie  Wertungsspiele und Konzertreisen mit dem Verein. Im Sommer 2013 hat er dieses Amt niedergelegt und wurde in diesem Zuge zum Ehrendirigent ernannt. An der Trompete ist er weiterhin ein aktives Mitglied des Vereins.
-
+Als **Joachim Heck** im Jahr 2013 den Dirigentenstab in Würmersheim an seinen Nachfolger übergab, beendete er damit seine 28jährige Amtszeit als Dirigent des Musikvereins Würmersheim. In dieser Zeit bestritt er unzählige Auftritte und Konzerte, sowie Wertungsspiele und Konzertreisen im In- und Ausland mit dem Verein. Aufgrund seiner hohen Verdienste um den Musikverein Würmersheim wurde er deshalb nach Beendigung seiner Amtszeit von der Verwaltung und den Musikern des Vereins zum Ehrendirigenten ernannt. An der Trompete ist Joachim Heck weiterhin ein aktives Mitglied des Vereins.
