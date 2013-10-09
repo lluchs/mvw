@@ -43,6 +43,7 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
 
  - Andreas Schorpp
  - Constantin Rauch
+ - Hannes Haberstock
  - Joachim Heck
  - Jonas Oelze
  - Linda Stürmlinger
