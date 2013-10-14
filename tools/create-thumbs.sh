@@ -17,7 +17,11 @@ do
 	# Create thumbnails!
 	echo Generating thumbnails for $dir.
 	cd $dir
-	gm mogrify -output-directory thumbs -size 250x166 *.jpg -resize 250x166 +profile "*"
+	# Use `gm convert` as `gm mogrify` does not always use the given size.
+	for file in *.jpg
+	do
+		gm convert -size 250x166 $file -resize 250x166 +profile "*" thumbs/$file
+	done
 	# Switch back to the previous directory.
 	cd $base
 done
