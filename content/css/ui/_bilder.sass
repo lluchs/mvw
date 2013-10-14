@@ -6,7 +6,17 @@ ul.image-list
   li
     display: inline-block
     vertical-align: top
-    width: 300px
 
   a
     display: block
+
+  &.fixed-width li
+    width: 300px
+
+.gallery
+  text-align: center
+
+// Remove the blue hover effect as it overlays images.
+.fancybox-overlay a:hover
+  background-color: transparent
+
