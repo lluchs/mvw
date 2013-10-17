@@ -3,19 +3,19 @@ title: Jugend
 
 subnav:
   - img: /images/jugend/nav/frueherziehung.jpg
-    url: frueherziehung/
+    url: /jugend/frueherziehung/
     title: Früherziehung
   - img: /images/jugend/nav/blockfloeten.jpg
-    url: blockfloeten/
+    url: /jugend/blockfloeten/
     title: Blockflöten
   - img: /images/jugend/nav/schuelerkapelle.jpg
-    url: schuelerkapelle/
+    url: /jugend/schuelerkapelle/
     title: Schülerkapelle
   - img: /images/jugend/nav/jugendkapelle.jpg
-    url: jugendkapelle/
+    url: /jugend/jugendkapelle/
     title: Jugendkapelle
   - img: /images/jugend/nav/instrumentalausbildung.jpg
-    url: ausbildung/
+    url: /jugend/ausbildung/
     title: Instrumental&shy;ausbildung
 ---
 

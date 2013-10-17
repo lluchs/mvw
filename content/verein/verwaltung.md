@@ -2,6 +2,8 @@
 title: Verwaltung
 ---
 
+<%= render 'subnav-compact', navitems: @item.parent[:subnav] %>
+
 # Verwaltung
 
 <div class="pure-g-r">

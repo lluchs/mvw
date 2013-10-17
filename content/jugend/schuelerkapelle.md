@@ -2,6 +2,8 @@
 title: Schülerkapelle
 ---
 
+<%= render 'subnav-compact', navitems: @item.parent[:subnav] %>
+
 Schülerkapelle
 ==============
 

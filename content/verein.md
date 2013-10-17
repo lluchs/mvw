@@ -3,19 +3,19 @@ title: Über uns
 
 subnav:
   - img: http://placehold.it/200x200
-    url: dirigenten/
+    url: /verein/dirigenten/
     title: Dirigenten
   - img: /images/verein/nav/musiker.jpg
-    url: musiker/
+    url: /verein/musiker/
     title: Musiker
   - img: http://placehold.it/200x200
-    url: verwaltung/
+    url: /verein/verwaltung/
     title: Verwaltung
   - img: /images/verein/nav/chronik.jpg
-    url: chronik/
+    url: /verein/chronik/
     title: Chronik
   - img: /images/verein/nav/mitgliedschaft.jpg
-    url: mitgliedschaft/
+    url: /verein/mitgliedschaft/
     title: Mitglied werden
 ---
 

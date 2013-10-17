@@ -2,6 +2,8 @@
 title: Instrumentalausbildung
 ---
 
+<%= render 'subnav-compact', navitems: @item.parent[:subnav] %>
+
 Instrumentalausbildung
 ======================
 

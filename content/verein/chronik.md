@@ -2,6 +2,8 @@
 title: Chronik
 ---
 
+<%= render 'subnav-compact', navitems: @item.parent[:subnav] %>
+
 Chronik
 =======
 

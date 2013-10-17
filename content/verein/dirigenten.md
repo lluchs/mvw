@@ -2,6 +2,8 @@
 title: Dirigenten
 ---
 
+<%= render 'subnav-compact', navitems: @item.parent[:subnav] %>
+
 # Dirigenten
 
 <div class="l-box" style="float: left">

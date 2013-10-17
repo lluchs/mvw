@@ -2,6 +2,8 @@
 title: Blockflöten
 ---
 
+<%= render 'subnav-compact', navitems: @item.parent[:subnav] %>
+
 Blockflötenunterricht
 =====================
 

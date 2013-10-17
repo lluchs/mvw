@@ -2,6 +2,8 @@
 title: Früherziehung
 ---
 
+<%= render 'subnav-compact', navitems: @item.parent[:subnav] %>
+
 Musikalische Früherziehung
 ==========================
 
