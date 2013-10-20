@@ -2,13 +2,13 @@
 title: Über uns
 
 subnav:
-  - img: http://placehold.it/200x200
+  - img: /images/verein/nav/dirigenten.png
     url: /verein/dirigenten/
     title: Dirigenten
   - img: /images/verein/nav/musiker.jpg
     url: /verein/musiker/
     title: Musiker
-  - img: http://placehold.it/200x200
+  - img: /images/verein/nav/verwaltung.png
     url: /verein/verwaltung/
     title: Verwaltung
   - img: /images/verein/nav/chronik.jpg
