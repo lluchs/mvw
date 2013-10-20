@@ -37,5 +37,11 @@ Tel.: 0152 54580742
 ## Probezeit
 
 Die [Gesamtkapelle](/verein/) probt montags von 19:45 bis 21:45 im Gemeindezentrum Würmersheim. Aktuelle Informationen zur Probe können dem Gemeindeblatt entnommen werden.
+
+
+## Facebook
+
+Wir sind auch auf Facebook aktiv. [Hier geht es zu unserer Seite.](https://www.facebook.com/MusikvereinHarmonieWurmersheimEv)
+
 </div>
 </div>
