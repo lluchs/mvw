@@ -21,6 +21,15 @@ body {
   min-width: 550px;
 }
 
+h1, h2 {
+  // Too much space.
+  margin-bottom: 0;
+
+  & + p {
+    margin-top: 0.5em;
+  }
+}
+
 a, a:visited {
   color: #2366AD;
 }
