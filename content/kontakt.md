@@ -10,7 +10,12 @@ title: Kontakt
 
 Benjamin Heck
 
+Auer Str. 20/4<br>
+76448 Würmersheim
+
 Tel.: 0172 6728744
+
+E-Mail: [vorsitzender@mvwuermersheim.de](mailto:vorsitzender@mvwuermersheim.de)
  
 
 ## Schriftführer
@@ -18,6 +23,8 @@ Tel.: 0172 6728744
 Sarah Grüßinger
 
 Tel.: 0174 2041884
+
+E-Mail: [schriftfuehrer@mvwuermersheim.de](mailto:schriftfuehrer@mvwuermersheim.de)
  
 
 ## Jugend/Ausbildung
