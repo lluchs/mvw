@@ -18,6 +18,4 @@ Callela im Jahre 2004.
 
 Die Musikalische Leitung der Jugendkapelle liegt seit 2012 bei Sasikia Hobl.
 
-<div>
-  <img alt="Auftritt im Europapark" src="/images/jugend/jugendkapelle.jpg" style="max-width: 100%">
-</div>
+<img alt="Auftritt im Europapark" src="/images/jugend/jugendkapelle.jpg" style="max-width: 100%">
