@@ -21,8 +21,8 @@ subnav:
 
 <%= render 'subnav', navitems: @item[:subnav] %>
 
-Herzlich Willkommen auf der Seite des Musikverein „Harmonie“ Würmersheim e.V.
-=============================================================================
+Über uns
+========
 
 Wir, die Gesamtkapelle des Vereins, setzen uns zusammen aus ca. 50 Musikern zwischen 14 und 79 Jahren mit ganz unterschiedlichen Interessen und Stärken. Was uns jedoch alle eint, ist der Spaß an der Blasmusik, dem gemeinschaftlichen Erarbeiten und (Er)Leben von Musik, und ganz besonders natürlich dem gemeinsame Musizieren.
 

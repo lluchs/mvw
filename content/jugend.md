@@ -21,6 +21,9 @@ subnav:
 
 <%= render 'subnav', navitems: @item[:subnav] %>
 
+Jugend
+======
+
 Seit vielen Jahren ist die Instrumentalausbildung ein wesentlicher Bestandteil der 
 Jugendarbeit beim Musikverein Würmersheim. Die Ausbildung der Jungmusiker wird von 
 professionellen Musiklehrern und Musikern des Vereins übernommen. Derzeit befinden 
