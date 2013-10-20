@@ -25,3 +25,9 @@ Unsere Homepage enthält Links zu externen Webseiten, auf deren Inhalte wir kein
 ## Urheberrecht:
 
 Wie sind bemüht, stets die Urheberrechte anderer zu beachten bzw. auf selbst erstellte sowie lizenzfreie Werke zurückzugreifen. Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Beiträge Dritter sind als solche gekennzeichnet. Downloads und Kopien unsere Seiten sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
+
+## Bildquellen
+
+ - [Horn im Logo](http://commons.wikimedia.org/wiki/File:French_Horn_back.svg)
+ - [Taktstock "Dirigenten"](http://commons.wikimedia.org/wiki/File:Taktstock.png)
+ - [Briefumschlag "Verwaltung"](http://openclipart.org/detail/83869/closed-envelope-by-jhnri4)
