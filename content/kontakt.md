@@ -36,7 +36,9 @@ Tel.: 0152 54580742
 <div class="pure-u-1-2" markdown="1">
 ## Probezeit
 
-Die [Gesamtkapelle](/verein/) probt montags von 19:45 bis 21:45 im Gemeindezentrum Würmersheim. Aktuelle Informationen zur Probe können dem Gemeindeblatt entnommen werden.
+Die [Gesamtkapelle](/verein/) probt montags von 19:45 bis 21:45 im Gemeindezentrum Würmersheim
+([Karte](https://maps.google.de/maps?q=Beethovenstr.+4,+76448+w%C3%BCrmersheim&hl=de&ie=UTF8&ll=48.937752,8.253522&spn=0.016125,0.025964&sll=48.800532,8.629761&sspn=0.032338,0.051928&t=h&hnear=Beethovenstra%C3%9Fe+4,+76448+Durmersheim&z=15)).
+Aktuelle Informationen zur Probe können dem Gemeindeblatt entnommen werden.
 
 
 ## Facebook
