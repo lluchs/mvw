@@ -14,7 +14,7 @@ Orchestern bemüht sind. Neben der musikalischen Partnerschaft mit diesen Kapell
 inzwischen auch zahlreiche Kontakte und Freundschaften entstanden. Konzertreisen nach England 
 und in die Schweiz waren das jüngste Ergebnis dieses musikalischen Austauschs.
 
-Im Folgenden einige Links zu befreundeten Kapellen:
+Im Folgenden einige Links zu befreundeten Kapellen außerhalb unseres Verbandes:
 
  - <a href="http://www.chilemusig.ch/" target="_blank">Kirchenmusik Escholzmatt</a>
  - <a href="http://www.littlehampton-concertband.co.uk/" target="_blank">Littlehampton Concert Band</a>
