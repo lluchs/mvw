@@ -20,7 +20,7 @@ do
 	# Use `gm convert` as `gm mogrify` does not always use the given size.
 	for file in *.jpg
 	do
-		gm convert -size 250x166 $file -resize 250x166 +profile "*" -quality 92 thumbs/$file
+		gm convert -size x166 $file -resize x166 +profile "*" -quality 92 thumbs/$file
 	done
 	# Switch back to the previous directory.
 	cd $base
