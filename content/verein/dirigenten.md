@@ -6,6 +6,8 @@ title: Dirigenten
 
 # Dirigenten
 
+## Dirigent
+
 <div class="l-box" style="float: left">
 <img src="/images/verein/bruschke.jpg" alt="Markus Bruschke">
 </div>
