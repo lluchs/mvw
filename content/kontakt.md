@@ -20,7 +20,7 @@ E-Mail: [vorsitzender@mvwuermersheim.de](mailto:vorsitzender@mvwuermersheim.de)
 
 ## Schriftführer
 
-Sarah Grüßinger
+Sarah Grüßinger, Lisa Honzejk
 
 Tel.: 0174 2041884
 
