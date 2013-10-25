@@ -24,7 +24,7 @@ Musikervorstand
 : Claudia Fitterer
 
 Jugendvorstand
-: Julia Schorpp
+: Jan Therm
 
 Aktive Beisitzer
 : Oliver Forster, Lukas Stürmlinger
