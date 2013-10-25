@@ -16,9 +16,9 @@ und in die Schweiz waren das jüngste Ergebnis dieses musikalischen Austauschs.
 
 Im Folgenden einige Links zu befreundeten Kapellen:
 
- - [Kirchenmusik Escholzmatt](http://www.chilemusig.ch/)
- - [Littlehampton Concert Band](http://www.littlehampton-concertband.co.uk/)
- - [Musikverein Ruwer](http://musikverein-ruwer.de/)
+ - <a href="http://www.chilemusig.ch/" target="_blank">Kirchenmusik Escholzmatt</a>
+ - <a href="http://www.littlehampton-concertband.co.uk/" target="_blank">Littlehampton Concert Band</a>
+ - <a href="http://musikverein-ruwer.de/" target="_blank">Musikverein Ruwer</a>
 
 </div>
 <div class="pure-u-1-2">

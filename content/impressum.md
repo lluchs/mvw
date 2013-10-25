@@ -28,6 +28,6 @@ Wie sind bemüht, stets die Urheberrechte anderer zu beachten bzw. auf selbst er
 
 ## Bildquellen
 
- - [Horn im Logo](http://commons.wikimedia.org/wiki/File:French_Horn_back.svg)
- - [Taktstock "Dirigenten"](http://commons.wikimedia.org/wiki/File:Taktstock.png)
- - [Briefumschlag "Verwaltung"](http://openclipart.org/detail/83869/closed-envelope-by-jhnri4)
+ - <a href="http://commons.wikimedia.org/wiki/File:French_Horn_back.svg" target="_blank">Horn im Logo</a>
+ - <a href="http://commons.wikimedia.org/wiki/File:Taktstock.png" target="_blank">Taktstock "Dirigenten"</a>
+ - <a href="http://openclipart.org/detail/83869/closed-envelope-by-jhnri4" target="_blank">Briefumschlag "Verwaltung"</a>
