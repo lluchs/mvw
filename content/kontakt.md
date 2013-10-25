@@ -43,7 +43,8 @@ Aktuelle Informationen zur Probe können dem Gemeindeblatt entnommen werden.
 
 ## Facebook
 
-Wir sind auch auf Facebook aktiv. <a href="https://www.facebook.com/MusikvereinHarmonieWurmersheimEv" target="_blank">Hier geht es zu unserer Seite.</a>
+Wir sind auch auf Facebook zu finden:
+<a href="https://www.facebook.com/MusikvereinHarmonieWurmersheimEv" target="_blank">Hier geht es zu unserer Seite.</a>
 
 </div>
 </div>
