@@ -37,7 +37,7 @@ findet der Instrumentalunterricht statt. Diese intensive Jugendarbeit sichert de
 des Musikvereins Würmersheim.
 
 Neben der Instrumentalausbildung ist die aktive Jugendarbeit ein weiterer wichtiger 
-Bestandteil unserer Jugendausbildung. Jan Therm, der Jugendleiter unseres Vereins sorgt 
+Bestandteil unserer Jugendausbildung. Jan Thern, der Jugendleiter unseres Vereins sorgt 
 mit seinem engagierten Jugendteam dafür, dass neben dem Musizieren auch die Kameradschaft 
 und Freundschaft untereinander gefördert werden. Das Jugendteam organisiert und betreut 
 unter anderem: Jugendfreizeiten, Campingwochenende, Filmabende, Spielnachmittage, 
