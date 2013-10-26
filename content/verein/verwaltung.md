@@ -31,6 +31,9 @@ Aktive Beisitzer
 
 Passive Beisitzer
 : Martin Vögele, Sonja Schröder
+
+Festausschuss
+: Jörg Martin, Kevin Fitterer
 </div>
 
 <div class="pure-u-2-3 tmp" markdown="1">
