@@ -34,6 +34,9 @@ Passive Beisitzer
 
 Festausschuss
 : Jörg Martin, Kevin Fitterer
+
+Webmaster
+: Lukas Werling
 </div>
 
 <div class="pure-u-2-3 tmp" markdown="1">
