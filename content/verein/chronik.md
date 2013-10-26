@@ -66,4 +66,4 @@ Seit der Gründung unseres Vereins im Jahre 1922 hatten wir folgende erste Vorsi
 1988 – 1998 | Willy Heck
 1998 – 2004 | Lothar Schlager
 2004 – 2013 | Daniela Ganz
-Seit 2013   | Benjamin Heck
+Seit 2013   | Benjamin Heck (Vorsitzender), Andreas Schorpp (Geschäftsführender Vorsitzender)
