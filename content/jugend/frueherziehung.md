@@ -7,7 +7,11 @@ title: Früherziehung
 Musikalische Früherziehung
 ==========================
 
-Durch den spielerischen Umgang mit verschiedenen Instrumenten und dem gemeinsamen Singen möchte die musikalische Früherziehung schon im Kleinkindalter das Interesse an der Musik wecken und gezielt fördern. Somit wird hier wird der Grundstein für die weitere musikalische  Ausbildung gelegt. Verantwortlich in unserem Verein ist hierfür unser ehemaliger Dirigent Joachim Heck.
+Im Mittelpunkt der musikalischen Früherziehung steht der spielerische Umgang
+mit verschiedenen Instrumenten und das gemeinsame Singen. Ziel ist es, bereits
+im Kleinkindalter das Interesse an der Musik zu wecken und gezielt zu fördern.
+So wird in der musikalischen Früherziehung der Grundstein für die weitere
+musikalische Ausbildung der Kinder gelegt. 
 
 <div class="pure-g-r">
   <div class="pure-u-1-2">
