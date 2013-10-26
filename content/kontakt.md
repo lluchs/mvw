@@ -13,7 +13,7 @@ Benjamin Heck
 Auer Str. 20/4<br>
 76448 Würmersheim
 
-Tel.: 0172 6728744
+Tel.: 07245/860-3844
 
 E-Mail: [vorsitzender@mvwuermersheim.de](mailto:vorsitzender@mvwuermersheim.de)
  

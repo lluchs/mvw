@@ -9,7 +9,7 @@ Musikverein "Harmonie" Würmersheim e.V.
 Benjamin Heck<br>
 Auer Str. 20/4<br>
 76448 Würmersheim<br>
-Tel.: 0172 6728744<br>
+Tel.: 07245/860-3844<br>
 
 ## Hinweise:
 
