@@ -35,6 +35,9 @@ Passive Beisitzer
 Festausschuss
 : Jörg Martin, Kevin Fitterer
 
+Notenwart
+: Martin Bader
+
 Webmaster
 : Lukas Werling
 </div>
