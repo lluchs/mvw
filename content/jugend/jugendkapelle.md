@@ -16,6 +16,6 @@ Würmersheim seit je her einen sehr hohen Stellenwert. Sehr stolz sind wir z.B. 
 Erreichen des zweiten Preises beim internationalen Musikwettbewerb für Jugendorchester in 
 Callela im Jahre 2004. 
 
-Die Musikalische Leitung der Jugendkapelle liegt seit 2012 bei Sasikia Hobl.
+Die Musikalische Leitung der Jugendkapelle liegt seit 2012 bei Saskia Hobl.
 
 <img alt="Auftritt im Europapark" src="/images/jugend/jugendkapelle.jpg" style="max-width: 80%">
