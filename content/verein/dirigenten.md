@@ -20,9 +20,39 @@ Bereits während seines Studiums war Bruschke als Lehrer tätig und Dozent auf z
 
 Markus Bruschke ist seit dem Herbst 2013 der Dirigent der Gesamtkapelle.
 
+## Vizedirigent
+
+<div class="l-box" style="float: left">
+<img src="/images/verein/olli.jpg" alt="Oliver Forster" style="height: 135px; width: auto">
+</div>
+
+Als Oliver Forster als Trompeter zum Jugendorchester des Musikvereins 
+Würmersheim stieß, war er gerade einmal sieben Jahre alt. Seither hat er sein 
+musikalisches Repertoire stetig in alle Richtungen erweitert. Das Mitwirken in 
+verschiedenen Orchestern (Verbandsjugendorchester des Blasmusikverbands, 
+Sinfonie- und dem Kammerorchester an der Universität Karlsruhe, Big Band 
+Combination Rastatt) trug ebenso dazu bei wie die Teilnahme an spezifischen 
+Workshops (Malte Burba, Kees Vlak, Mnozil Brass) und internationalen 
+Wettbewerben und Konzertreisen.
+
+Fast sechs Jahre lang leitete Oliver Forster nach absolvierter Ausbildung zum 
+Blasorchesterdirigenten die Jugendkapelle unseres Vereins. In diesen Zeitraum 
+fallen auch zahlreiche Konzertreisen und Teilnahmen an Wertungsspielen 
+wie Kritikspielen in Baden-Baden und dem internationalen Wettbewerb für 
+Jugendblasorchester in Rostock. Zuletzt belegte die Jugendkapelle im Jahr 2004 
+unter seiner Leitung den zweiten Platz beim internationalen Musikwettbewerb für 
+Blasorchester in Calella.
+
+Im Jahr 2012 kehrte er nach einem fast 6jährigen beruflichen Gastspiel im fernen 
+München zurück nach Karlsruhe und ist seitdem auch wieder beim Musikverein
+Würmersheim aktiv. Im Zuge der Neubildung der Vereinsverwaltung im Jahr 2013 
+wurde er in den Musikerrat gewählt und begleitet damit zugleich den Posten eines 
+aktiven Beisitzers. Zusätzlich fungiert er seitdem in der Rolle des Vizedirigenten als 
+Stellvertreter unseres etatmäßigen Dirigenten Markus Bruschke.
+
 ## Ehrendirigent
 
-<div class="l-box" style="float: left; padding-top: 0">
+<div class="l-box" style="float: left">
 <img src="/images/verein/joachim.jpg" alt="Joachim Heck">
 </div>
 
