@@ -39,6 +39,18 @@ Nach und nach stellten sich aber immer größer werdende Nachwuchssorgen ein. Ne
 
 Heute können wir mit Stolz auf unsere Jugend sehen. Selbst die Kleinsten werden in der musikalischen Früherziehung der Musik näher gebracht. Unsere musikalische Ausbildung erstreckt sich von  der musikalischen Früherziehung über den Blockflötenunterricht bis zum Erlernen eines Holz- Blech- oder Schlaginstruments. Dieser Unterricht kann sowohl in Einzelunterricht wie auch in Gruppenunterricht erfolgen. Je nach Können und Fähigkeiten musizieren die Jugendlichen in der Schüler- Jugend- oder Gesamtkapelle. Den hohen Leistungsstand unsere Jugendkapelle erkennen Sie daran, dass sie beim internationalen Wettbewerb in Spanien den 2. Platz belegt hat. Derzeit werden im Musikverein Würmersheim über 150 Kinder und Jugendliche ausgebildet. Diese intensive Jugendarbeit sichert den Fortbestand des Musikvereins Harmonie Würmersheim.
 
+Seit 2007 intensivierten die Mitglieder des Musikvereins auch merklich den Austausch 
+mit anderen Kapellen. So fanden in den Jahren 2007 und 2008 gegenseitige Besuche mit 
+der Littlehampton Concertband aus England statt. In den Jahren 2011 und 2013 stand ein 
+Austausch mit der schweizerischen Kirchenmusik Escholzmatt auf dem Programm. 
+
+Das Jahr 2012 stand ganz im Zeichen des 100 jährigen Bestehens des Musikvereins. Den 
+Höhepunkt dieses besonderen Festjahres bildete das mehrtägige Jubiläumsfest an der 
+Würmersheimer Waldhütte, das sich über ganze vier Tage erstreckte und dessen Höhepunkt 
+im Auftritt von Vlado Kumpan und seinen Musikanten am Samstagabend und dem am 
+Sonntag folgenden Verbandsmusikfest mit Konzert des Verbandsorchesters und großem 
+Festumzug durch Würmersheim bestand.
+
 Mit dem Verwaltungswechsel im Jahr 2013 wurde die Satzung des Musikvereins 
 aktualisiert. Die Spitze des Vereins bilden seither gleichberechtigt Vorsitzender 
 und geschäftsführender Vorstand. Die Verantwortung für den Jugendbereich 
