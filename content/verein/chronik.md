@@ -48,12 +48,12 @@ mit anderen Kapellen. So fanden in den Jahren 2007 und 2008 gegenseitige Besuche
 der Littlehampton Concertband aus England statt. In den Jahren 2011 und 2013 stand ein 
 Austausch mit der schweizerischen Kirchenmusik Escholzmatt auf dem Programm. 
 
-Das Jahr 2012 stand ganz im Zeichen des 100 jährigen Bestehens des Musikvereins. Den 
-Höhepunkt dieses besonderen Festjahres bildete das mehrtägige Jubiläumsfest an der 
-Würmersheimer Waldhütte, das sich über ganze vier Tage erstreckte und dessen Höhepunkt 
-im Auftritt von Vlado Kumpan und seinen Musikanten am Samstagabend und dem am 
-Sonntag folgenden Verbandsmusikfest mit Konzert des Verbandsorchesters und großem 
-Festumzug durch Würmersheim bestand.
+Das Jahr 2012 stand ganz im Zeichen des 100 jährigen Bestehens des Musikvereins. Den
+Mittelpunkt dieses besonderen Festjahres bildete das mehrtägige Jubiläumsfest an der
+Würmersheimer Waldhütte, das sich über ganze vier Tage erstreckte und dessen Höhepunkt im
+Auftritt von Vlado Kumpan und seinen Musikanten am Samstagabend und dem am Sonntag
+folgenden Verbandsmusikfest mit Konzert des Verbandsorchesters und großem Festumzug durch
+Würmersheim bestand.
 
 Mit dem Verwaltungswechsel im Jahr 2013 wurde die Satzung des Musikvereins 
 aktualisiert. Die Spitze des Vereins bilden seither gleichberechtigt Vorsitzender 
