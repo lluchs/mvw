@@ -47,7 +47,7 @@ Webmaster
 : Lukas Werling
 
 Redaktion
-: Oliver Forster
+: Oliver Forster, Lukas Werling
 </div>
 
 <div class="pure-u-2-3 tmp" markdown="1">
