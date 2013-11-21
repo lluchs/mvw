@@ -50,10 +50,10 @@ Redaktion
 : Oliver Forster, Lukas Werling
 </div>
 
-<div class="pure-u-2-3 tmp" markdown="1">
-Hier ein Bild der aktuellen Verwaltung.
+<div class="pure-u-2-3" markdown="1">
+![Gruppenbild](/images/verein/Verwaltung_Nov_2013.jpg)
 
-Die Namen links könnten verlinkt werden zu den jeweiligen E-Mail Adressen der Verwaltungsmitglieder (@mvwuermersheim.de).
+Die Verwaltung im November 2013.
 </div>
 </div>
 
