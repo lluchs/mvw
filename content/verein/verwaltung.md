@@ -53,7 +53,7 @@ Redaktion
 <div class="pure-u-2-3" markdown="1">
 ![Gruppenbild](/images/verein/Verwaltung_Nov_2013.jpg)
 
-Die Verwaltung im November 2013.
+Die Verwaltung im November 2013. Es fehlen Janka Dörr und Jörg Martin.
 </div>
 </div>
 
