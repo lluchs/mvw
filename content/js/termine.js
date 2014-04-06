@@ -15,7 +15,7 @@
 
   /* Parses a date of format `14.03.2014`. */
   function parseDate(dateString) {
-    var isoString = dateString.split('.').reverse().join('-');
+    var isoString = dateString.split('.').reverse().join('-') + 'T23:59:59';
     return Date.parse(isoString);
   }
 })()
