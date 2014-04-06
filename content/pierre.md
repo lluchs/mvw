@@ -15,3 +15,5 @@ Auftritten, auf gemeinsamen Freizeiten oder Ausflügen.
 
 In Gedanken sind wir alle aber auch bei seiner Familie und wünschen euch dreien 
 viel Kraft diesen schweren Verlust zu tragen.
+
+![Traueranzeige](pierre.svgz)
