@@ -7,16 +7,18 @@ title: Jugendkapelle
 Jugendkapelle
 =============
 
-Die Jugendkapelle unseres Musikvereins ist nach der Schülerkapelle das zweite 
-Ausbildungsorchester und ist zugleich das “musikalische Sprungbrett” zur Gesamtkapelle. 
+Die Jugendkapelle unseres Musikvereins ist nach der Schülerkapelle das zweite
+Ausbildungsorchester und ist zugleich das “musikalische Sprungbrett” zur
+Gesamtkapelle.
 
-Hier werden bereits anspruchsvolle Werke für Blasorchester einstudiert und bei den 
-unterschiedlichsten Anlässen aufgeführt. Die Jugendkapelle hat im Musikverein 
-Würmersheim seit je her einen sehr hohen Stellenwert. Sehr stolz sind wir z.B. auf das 
-Erreichen des zweiten Preises beim internationalen Musikwettbewerb für Jugendorchester in 
-Callela im Jahre 2004. 
+Hier werden bereits anspruchsvolle Werke für Blasorchester einstudiert und bei
+den unterschiedlichsten Anlässen aufgeführt. Die Jugendkapelle hat im
+Musikverein Würmersheim seit je her einen sehr hohen Stellenwert. Deshalb sind
+wir sehr stolz, mittlerweile auf einige erfolgreiche Teilnahmen an
+verschiedenen Musikwettbewerben (z.B. in Rostock, Baden-Baden und Calella)
+zurückblicken zu können.
 
-Die Musikalische Leitung der Jugendkapelle liegt seit 2012 bei Saskia Hobl.
+Die Musikalische Leitung der Jugendkapelle liegt seit April 2014 bei Oliver Forster.
 
 <a href="/images/jugend/jugendkapelle_big.jpg">
 <img alt="Auftritt im Europapark" src="/images/jugend/jugendkapelle.jpg" style="max-width: 80%">
