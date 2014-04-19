@@ -10,6 +10,7 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
 
 ### Flöte
 
+ - Annkathrin Schorpp
  - Lisa Honzejk
  - Michaela Schorpp
  - Simon Martin
@@ -29,7 +30,6 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
  - Lukas Werling
  - Sarah Eisen
  - Sarah Grüßinger
- - Saskia Hobl
 
 ### Saxophon
 
@@ -41,8 +41,10 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
 
 ### Trompete/Flügelhorn
 
+ - Adrian Krieger
  - Andreas Schorpp
  - Constantin Rauch
+ - Diana Stürmlinger
  - Hannes Haberstock
  - Joachim Heck
  - Jonas Oelze
@@ -51,7 +53,6 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
  - Marie Daebel
  - Mia Vögele
  - Oliver Forster
- - Vanessa Grüßinger
 
 ### Horn
 
@@ -65,11 +66,9 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
  - Leopold Eisen
  - Luis Vögele
  - Petra Eisen
- - Sebastian Heck
 
 ### Posaune
 
- - Alexander Ipach
  - Alexander Wlotzka
  - Rene Kassel
  - Steffen Martin
@@ -79,6 +78,7 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
 ### Tuba
 
  - Daniel Heck
+ - Sebastian Heck
 
 ### Schlagzeug
 
