@@ -29,7 +29,7 @@ E-Mail: [schriftfuehrer@mvwuermersheim.de](mailto:schriftfuehrer@mvwuermersheim.
 
 Janka Dörr
 
-Tel.: 0152 54580742 
+E-Mail: [ausbildung@mvwuermersheim.de](mailto:ausbildung@mvwuermersheim.de)
 </div>
 <div class="pure-u-1-2" markdown="1">
 ## Probezeit
