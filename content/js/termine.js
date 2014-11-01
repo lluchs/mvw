@@ -6,7 +6,7 @@
   now = Date.now();
 
   for (var i = dates.length - 1; i >= 0; i--) {
-    date = parseDate(dates[i].children[0].innerText);
+    date = parseDate(dates[i].children[0].textContent);
     if (date > now) {
       dates[i].classList.add('pure-table-highlight');
       break;
