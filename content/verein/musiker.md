@@ -55,7 +55,7 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
 
  - Lukas Stürmlinger
 
-### Tenorhorn /Bariton
+### Tenorhorn/Bariton
 
  - Jonas Thern
  - Klaus Burger
