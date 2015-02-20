@@ -57,7 +57,7 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
 
 ### Tenorhorn/Bariton
 
- - Jonas Thern
+ - Jan Thern
  - Klaus Burger
  - Klaus Oberle
  - Leopold Eisen
