@@ -6,3 +6,6 @@ gem "sass"
 
 # Required for `nanoc view`
 gem "adsf"
+# Automatic watching
+gem "guard"
+gem "guard-nanoc"
