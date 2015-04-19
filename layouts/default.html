@@ -3,23 +3,23 @@
   <head>
     <meta charset="utf-8">
     <title>MV "Harmonie" Würmersheim - <%= @item[:title] %></title>
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.2.1/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
     <link rel="stylesheet" href="/style.css">
 
     <meta name="generator" content="nanoc <%= Nanoc::VERSION %>"> 
   </head>
   <body>
     <header class="content main">
-      <div class="pure-menu pure-menu-open pure-menu-horizontal">
+      <div class="pure-menu pure-menu-horizontal">
         <a class="pure-menu-heading" href="/">
           <img src="/images/logo.png" alt='MV "Harmonie" Würmersheim' class="logo">
           <h1>Musikverein<br>"Harmonie"<br>Würmersheim e.V.</h1>
         </a>
-        <ul>
-          <li><a href="/termine/">Termine</a></li>
-          <li><a href="/bilder/">Bilder</a></li>
-          <li><a href="/jugend/">Jugend</a></li>
-          <li><a href="/verein/">Über uns</a></li>
+        <ul class="pure-menu-list">
+          <li class="pure-menu-item"><a class="pure-menu-link" href="/termine/">Termine</a></li>
+          <li class="pure-menu-item"><a class="pure-menu-link" href="/bilder/">Bilder</a></li>
+          <li class="pure-menu-item"><a class="pure-menu-link" href="/jugend/">Jugend</a></li>
+          <li class="pure-menu-item"><a class="pure-menu-link" href="/verein/">Über uns</a></li>
         </ul>
       </div>
     </header>
@@ -29,7 +29,7 @@
     </div>
 
     <footer class="content">
-      <div class="pure-g-r">
+      <div class="pure-g">
         <div class="pure-u-1-4">
           <h1><a href="/termine/">Termine</a></h1>
           <ul>
@@ -55,13 +55,13 @@
         </div>
       </div>
       <hr>
-      <nav class="pure-menu pure-menu-open pure-menu-horizontal dark-menu">
-        <ul>
-          <li><a href="/kontakt/">Kontakt</a></li>
-          <li><a href="/impressum/">Impressum</a></li>
+      <nav class="pure-menu pure-menu-horizontal dark-menu">
+        <ul class="pure-menu-list" style="float: right">
+          <li class="pure-menu-item"><a class="pure-menu-link" href="https://www.facebook.com/MusikvereinHarmonieWurmersheimEv" target="_blank">Facebook</a></li>
         </ul>
-        <ul style="float: right">
-          <li><a href="https://www.facebook.com/MusikvereinHarmonieWurmersheimEv" target="_blank">Facebook</a></li>
+        <ul class="pure-menu-list">
+          <li class="pure-menu-item"><a class="pure-menu-link" href="/kontakt/">Kontakt</a></li>
+          <li class="pure-menu-item"><a class="pure-menu-link" href="/impressum/">Impressum</a></li>
         </ul>
       </div>
     </nav>

@@ -6,7 +6,7 @@ title: Verwaltung
 
 # Verwaltung
 
-<div class="pure-g-r">
+<div class="pure-g">
 <div class="pure-u-1-3" markdown="1">
 1\. Vorsitzender
 : Benjamin Heck
@@ -51,7 +51,7 @@ Redaktion
 </div>
 
 <div class="pure-u-2-3" markdown="1">
-![Gruppenbild](/images/verein/Verwaltung_Nov_2013.jpg)
+<img class="pure-img" src="/images/verein/Verwaltung_Nov_2013.jpg" alt="Gruppenbild">
 
 Die Verwaltung im November 2013. Es fehlen Janka Dörr und Jörg Martin.
 </div>

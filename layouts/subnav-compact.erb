@@ -4,16 +4,16 @@
   #  - navitems: array of navigation items containing url and title.
 %>
 
-<nav class="pure-menu pure-menu-open pure-menu-horizontal">
+<nav class="pure-menu pure-menu-horizontal">
   <% if parent = @item.parent %>
     <a class="pure-menu-heading" href="<%= parent.path %>">
       <%= parent[:title] %>
     </a>
   <% end %>
-  <ul>
+  <ul class="pure-menu-list">
     <% @navitems.each do |nav| %>
-      <li class="<%= nav[:url] == @item.identifier ? 'pure-menu-selected' : '' %>">
-        <a href="<%= nav[:url] %>"><%= nav[:title] %></a>
+      <li class="pure-menu-item <%= nav[:url] == @item.identifier ? 'pure-menu-selected' : '' %>">
+        <a class="pure-menu-link" href="<%= nav[:url] %>"><%= nav[:title] %></a>
       </li>
     <% end %>
   </ul>

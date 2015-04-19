@@ -2,10 +2,10 @@
 
 <% unless (media = get_media_items_for(item)).empty? %>
   <% unless item[:no_content] %>
-    <nav class="pure-menu pure-menu-open pure-menu-horizontal">
-      <ul>
-        <li><a href="#rueckblick">Rückblick</a></li>
-        <li><a href="#presse">Presse</a></li>
+    <nav class="pure-menu pure-menu-horizontal">
+      <ul class="pure-menu-list">
+        <li class="pure-menu-item"><a class="pure-menu-link" href="#rueckblick">Rückblick</a></li>
+        <li class="pure-menu-item"><a class="pure-menu-link" href="#presse">Presse</a></li>
       </ul>
     </nav>
   <% end %>
