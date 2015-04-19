@@ -8,6 +8,9 @@ title: Musiker
 
 Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derzeit aus ca. 50 aktiven Musikerinnen und Musikern zusammen. Darunter sind auch viele Jugendliche, die außerdem Teil unserer [Jugendkapelle](/jugend/jugendkapelle/) sind.
 
+<div class="pure-g">
+<div class="pure-u-1-3" markdown="1">
+
 ### Flöte
 
  - Annkathrin Schorpp
@@ -81,3 +84,9 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
  - Benjamin Heck
  - Martin Bader
  - Philipp Kistner
+
+</div>
+<div class="pure-u-2-3">
+  <img class="pure-img" src="/images/gruppenbild_hundsbach_2015_sprung.jpg" alt="Gruppenbild">
+</div>
+</div>
