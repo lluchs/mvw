@@ -29,6 +29,7 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
  - Claudia Schorpp
  - Isabelle Herm
  - Janka Dörr
+ - Florian Fritz
  - Lukas Werling
  - Sarah Eisen
  - Sarah Grüßinger
@@ -39,7 +40,6 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
  - Antje Martin
  - Julia Schorpp
  - Peter Dunz
- - Yannic Palenga
 
 ### Trompete/Flügelhorn
 
@@ -77,11 +77,12 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
 ### Tuba
 
  - Daniel Heck
- - Sebastian Heck
 
 ### Schlagzeug
 
  - Benjamin Heck
+ - Lukas Marx
+ - Marius Karle
  - Martin Bader
  - Philipp Kistner
 
