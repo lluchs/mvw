@@ -21,10 +21,10 @@ Schriftführer
 : Sarah Grüßinger, Lisa Honzejk
 
 Musikervorstand
-: Claudia Fitterer
+: Lukas Stürmlinger
 
 Aktive Beisitzer
-: Oliver Forster, Lukas Stürmlinger
+: Oliver Forster, Volker Mompere
 
 Passive Beisitzer
 : Martin Vögele, Sonja Schröder
@@ -33,7 +33,7 @@ Jugendleiter
 : Jan Thern
 
 Ausbildungsleiterin
-: Janka Dörr
+: Claudia Fitterer
 
 Festausschuss
 : Jörg Martin, Kevin Fitterer
@@ -53,7 +53,7 @@ Redaktion
 <div class="pure-u-2-3" markdown="1">
 <img class="pure-img" src="/images/verein/Verwaltung_Nov_2013.jpg" alt="Gruppenbild">
 
-Die Verwaltung im November 2013. Es fehlen Janka Dörr und Jörg Martin.
+Die Verwaltung im November 2013. Es fehlen Volker Mompere und Jörg Martin.
 </div>
 </div>
 
