@@ -7,7 +7,7 @@ title: Bilder
 <%
 years = @items.select { |i| i.identifier =~ %r#^/bilder/\d{4}/[^/]+/$# }
               .group_by { |i| gallery_year i }
-years.keys.reverse.each do |year| %>
+years.keys.sort.reverse.each do |year| %>
   <h2 id="<%= year %>"><%= year %></h2>
   <ul class="fixed-width image-list subnav">
     <% years[year].sort_by { |i| i.attributes[:sort] }.reverse.each do |item| %>
