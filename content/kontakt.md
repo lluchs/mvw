@@ -4,7 +4,7 @@ title: Kontakt
 
 # Kontakt
 
-<div class="pure-g-r">
+<div class="pure-g">
 <div class="pure-u-1-2" markdown="1">
 ## Vorsitzender
 
@@ -27,7 +27,7 @@ E-Mail: [schriftfuehrer@mvwuermersheim.de](mailto:schriftfuehrer@mvwuermersheim.
 
 ## Jugend/Ausbildung
 
-Janka Dörr
+Claudia Fitterer
 
 E-Mail: [ausbildung@mvwuermersheim.de](mailto:ausbildung@mvwuermersheim.de)
 </div>
