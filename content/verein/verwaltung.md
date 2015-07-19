@@ -18,7 +18,7 @@ Kassiererin
 : Petra Eisen
 
 Schriftführer
-: Sarah Grüßinger, Lisa Honzejk
+: Sarah Kistner, Lisa Honzejk
 
 Musikervorstand
 : Lukas Stürmlinger

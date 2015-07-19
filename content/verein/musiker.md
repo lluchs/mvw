@@ -32,7 +32,7 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
  - Florian Fritz
  - Lukas Werling
  - Sarah Eisen
- - Sarah Grüßinger
+ - Sarah Kistner
 
 ### Saxophon
 
