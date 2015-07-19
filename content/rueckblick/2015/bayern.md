@@ -5,6 +5,9 @@ sort: 2015-07-10
 headline: "Jugendkapelle: Besuch und Konzert in Bayern"
 ---
 
+<div class="pure-g">
+  <div class="pure-u-1-2" markdown="1">
+
 Am Wochenende vom 10. - 12. Juli hieß es für unsere Jugendkapelle wieder "servus" zu 
 unseren Unterdarchinger Freunden. Letztes Jahr hatten wir die Jugendkapelle der Unterdarchinger 
 Musi ein Wochenende zu Besuch und ein buntes Programm mit einem gemeinsamen Konzert  
@@ -36,3 +39,11 @@ und reibungsloses Wochenende dank unseres Jugendleiters Jan Thern, der mit Unter
 Jugendteams viel Zeit in diese Tage gesteckt hat. Wir hoffen auf ein baldiges Wiedersehen und 
 bedanken uns bei den Unterdarchingern für das tolle Programm und die Gastfreundschaft und bei 
 unseren Jugendlichen, die dabei waren und hoffen, es hat allen viel Spaß gemacht.
+
+  </div>
+  <div class="pure-u-1-2">
+    <div class="l-box">
+      <img class="pure-img" src="/images/partnervereine/unterdarching.jpg" alt="Konzert der Jugendkapellen von Unterdarching und Würmersheim">
+    </div>
+  </div>
+</div>
