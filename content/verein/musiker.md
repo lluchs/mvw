@@ -50,7 +50,6 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
  - Jonas Oelze
  - Linda Stürmlinger
  - Luzia Eisen
- - Marie Daebel
  - Mia Vögele
  - Oliver Forster
 
@@ -69,6 +68,7 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
 
 ### Posaune
 
+ - Jannis Gerhards
  - Rene Kassel
  - Steffen Martin
  - Stephan Wlotzka
@@ -77,6 +77,8 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
 ### Tuba
 
  - Daniel Heck
+ - Eduard Krohmer
+ - Marie Daebel
 
 ### Schlagzeug
 
