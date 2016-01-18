@@ -20,4 +20,4 @@ Für folgende Instrumente bieten wir in aller Regel eine Ausbildung in Einzel- o
  - Tenorhorn, Bariton, Posaune, Tuba
  - Schlagzeug und Percussion
 
-Bei Fragen zu unserer Instrumentalausbildung wenden Sie sich bitte an unsere Ausbildungsleiterin [Janka Dörr](/kontakt/).
+Bei Fragen zu unserer Instrumentalausbildung wenden Sie sich bitte an unsere Ausbildungsleiterin [Claudia Fitterer](/kontakt/).

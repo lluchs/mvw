@@ -28,7 +28,7 @@ Seit vielen Jahren ist die Instrumentalausbildung ein wesentlicher Bestandteil d
 Jugendarbeit beim Musikverein Würmersheim. Die Ausbildung der Jungmusiker wird von 
 professionellen Musiklehrern und Musikern des Vereins übernommen. Derzeit befinden 
 sich über 100 Kinder und Jugendliche beim Musikverein Würmersheim in der Ausbildung. 
-Verantwortlich für die Organisation der Instrumentalausbildung ist Janka Dörr.
+Verantwortlich für die Organisation der Instrumentalausbildung ist Claudia Fitterer.
 
 Die Ausbildung beginnt bereits im Kleinkindalter mit der musikalischen Früherziehung. 
 Daran schließt sich der Blöckflötenunterricht an. In der Schüler- und Jugendkapelle 
