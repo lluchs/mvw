@@ -20,6 +20,6 @@ zurückblicken zu können.
 
 Die Musikalische Leitung der Jugendkapelle liegt seit April 2014 bei Oliver Forster.
 
-<a href="/images/jugend/jugendkapelle_big.jpg">
-<img alt="Auftritt im Europapark" src="/images/jugend/jugendkapelle.jpg" style="max-width: 80%">
+<a href="/images/jugend/jugendkapelle.jpg">
+<img alt="Gruppenfoto" src="/images/jugend/jugendkapelle.jpg" style="max-width: 80%">
 </a>
