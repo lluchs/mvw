@@ -1,7 +1,8 @@
-output
-tmp
-.sass-cache
-crash.log
+/output
+/tmp
+/.sass-cache
+/crash.log
+/vendor
 
-content/bilder
-content/presse
+/content/bilder
+/content/presse
