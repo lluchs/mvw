@@ -21,10 +21,10 @@ Schriftführer
 : Sarah Kistner, Lisa Honzejk
 
 Musikervorstand
-: Lukas Stürmlinger
+: Daniel Heck
 
-Aktive Beisitzer
-: Oliver Forster, Volker Mompere
+Musikerrat
+: Lukas Stürmlinger, Volker Mompere
 
 Passive Beisitzer
 : Martin Vögele, Sonja Schröder
@@ -36,7 +36,7 @@ Ausbildungsleiterin
 : Claudia Fitterer
 
 Festausschuss
-: Jörg Martin, Kevin Fitterer
+: Kevin Fitterer
 
 Notenwart
 : Martin Bader
@@ -53,7 +53,7 @@ Redaktion
 <div class="pure-u-2-3" markdown="1">
 <img class="pure-img" src="/images/verein/Verwaltung_Nov_2013.jpg" alt="Gruppenbild">
 
-Die Verwaltung im November 2013. Es fehlen Volker Mompere und Jörg Martin.
+Die Verwaltung im November 2013. Es fehlen Volker Mompere und Daniel Heck.
 </div>
 </div>
 
