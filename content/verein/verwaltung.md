@@ -36,7 +36,7 @@ Ausbildungsleiterin
 : Claudia Fitterer
 
 Festausschuss
-: Kevin Fitterer
+: Kevin Fitterer, Martin Fischer
 
 Notenwart
 : Martin Bader
@@ -51,9 +51,9 @@ Redaktion
 </div>
 
 <div class="pure-u-2-3" markdown="1">
-<img class="pure-img" src="/images/verein/Verwaltung_Nov_2013.jpg" alt="Gruppenbild">
+<img class="pure-img" src="/images/verein/Verwaltung_Feb_2017.jpg" alt="Gruppenbild">
 
-Die Verwaltung im November 2013. Es fehlen Volker Mompere und Daniel Heck.
+Die Verwaltung im Februar 2017. Es fehlt Martin Vögele.
 </div>
 </div>
 
