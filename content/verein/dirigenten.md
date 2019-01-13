@@ -9,16 +9,30 @@ title: Dirigenten
 ## Dirigent
 
 <div class="l-box" style="float: left">
-<img src="/images/verein/bruschke.jpg" alt="Markus Bruschke">
+<img src="/images/verein/ochi.jpg" alt="Kunihiro OCHI">
 </div>
 
-**Markus Bruschke**, Jahrgang 1983, wuchs in der Nähe von Wiesbaden auf. Er wurde bereits früh musikalisch gefördert und trat als Kinderchormitglied in vielen Vorstellungen am Staatstheater Wiesbaden auf. Er studierte Posaune an den Musikhochschulen in Würzburg und Karlsruhe und absolvierte darüber hinaus an der Hochschule für Musik Detmold den Masterstudiengang Musikvermittlung und Musikmanagement.
+**Kunihiro OCHI** wurde in Tokio/Japan geboren. Nach seinen Waldhornstudien am Geburtsort
+und in Frankfurt am Main folgte ein Aufbaustudium als Kapellmeister an der Staatlichen
+Musikhochschule Karlsruhe. Schon während seiner Studienzeit bewies er seine Fähigkeiten als
+Dirigent durch zahlreiche Aufnahmen beim Hessischen Rundfunk und beim Süddeutschen
+Rundfunk. Gastdirigate bei den nationalen und internationalen professionellen Orchestern
+folgten. Bei der Baden-Badener Philharmonie war OCHI besonders gern gesehener Gast und
+stand zwischen 1989 und 1994 insgesamt 29 mal am Dirigentenpult.
 
-Er war mehrfacher Bundespreisträger im Wettbewerb „Jugend musiziert“, Mitglied im Landesjugendorchester Hessen sowie im Bundesjugendorchester und spielte als Posaunist in verschiedenen professionellen Orchestern, unter anderem in Würzburg, Pforzheim, Gießen, Koblenz, Wiesbaden, Bamberg und Karlsruhe. Bruschke war Mitglied bei Stuttgart Brass und Aushilfe im renommierten Orchester des Mariinsky Theaters St. Petersburg unter der Leitung von Valery Gergiev. Künstlerische und pädagogische Impulse erhielt er auf Meisterkursen bei Prof. Stefan Schulz (Berliner Philharmoniker), Thomas Horch (Symphonieorchester des Bayerischen Rundfunks), Prof. Carsten Svanberg (Graz), Uwe Füssel (Bayerische Staatsoper) und Prof. Henning Wiegräbe (Musikhochschule Stuttgart); weiterführende Dirigierstudien verbinden ihn zudem mit Markus Bieringer (erster Kapellmeister und stellvertretender Generalmusikdirektor am Pfalztheater Kaiserslautern). Die umfangreiche Mitwirkung bei Rundfunk-, CD- und TV-Produktionen rundet sein musikalisches Profil ab.
+Ab 1991 übernahm er auch verschiedene Musikvereine. So dirigierte er z.B. von 1992 bis 2003
+den Musikverein Weingarten und von 2001 bis 2013 den Musikverein Appenweier.
+Sein Engagement in den Vereinen hinderte ihn nicht, gleichzeitig auch größere Aufgaben zu
+übernehmen. So war er von 1998 bis 2003 Musikdirektor des Blasorchesters der
+Elektrizitätswerke in Straßburg. Mit diesem Orchester hat OCHI den ersten Preis beim französichen
+Nationalwettbewerb in Thon les Bains errungen. Beim Sinfonischen Blasorchester Mercedes-Benz
+Wörth trägt er seit 1996 die musikalische Verantwortung. Von 1997 bis 2013 leitete er das
+LandesJugendBlasOrchester Rheinland-Pfalz, was für ihn zu einer Herzensangelegenheit wurde.
+Bei seinem Ausscheiden bescheinigte ihm Ministerpräsidentin Malu Dreyer „die musikalische
+Landschaft in Rheinland-Pfalz bereichert“ zu haben.
 
-Bereits während seines Studiums war Bruschke als Lehrer tätig und Dozent auf zahlreichen Blechbläserkursen. Seit 2012 unterrichtet er an der Clara-Schumann-Musikschule in Baden-Baden. Daneben spielt er im Blechbläserensemble Contrapunctus, dem Mainzer Kammerorchester, der Kurpfalzphilharmonie Heidelberg und sehr gerne auch im Orchester der Volksschauspiele Ötigheim. Außerdem arbeitet er als Konzertpädagoge im professionellen Musikbereich – u. a. als Moderator des musikpädagogischen Projekts „HörProbe“ der Jenaer Philharmonie – und ist ein gefragter Dirigent und Ausbilder im Posaunenchor- und Blasorchesterwesen. 
-
-Markus Bruschke ist seit dem Herbst 2013 der Dirigent der Gesamtkapelle.
+In Würmersheim ist OCHI seit September 2018 als künstlerischer Leiter des Musikvereins
+Harmonie tätig.
 
 ## Vizedirigent
 
@@ -48,7 +62,7 @@ München zurück nach Karlsruhe und ist seitdem auch wieder beim Musikverein
 Würmersheim aktiv. Im Zuge der Neubildung der Vereinsverwaltung im Jahr 2013 
 wurde er in den Musikerrat gewählt und begleitet damit zugleich den Posten eines 
 aktiven Beisitzers. Zusätzlich fungiert er seitdem in der Rolle des Vizedirigenten als 
-Stellvertreter unseres etatmäßigen Dirigenten Markus Bruschke.
+Stellvertreter unseres etatmäßigen Dirigenten Kunihiro OCHI.
 
 ## Ehrendirigent
 
