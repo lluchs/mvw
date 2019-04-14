@@ -48,3 +48,9 @@ Teilnahme an Landesmusikfesten in Breisach, Ravensburg und Bühl.
 Kurzum: Bei uns macht es jede Menge Spaß, ein Instrument zu erlernen, gemeinsam mit 
 Gleichaltrigen zu musizieren und auf Ausflügen und außermusikalischen Aktivitäten 
 Teamgeist und Freundschaft zu stärken.
+
+Wir sind als „Jugendfreundlicher Verein“ vom Landkreis Rastatt seit 12.12.2017
+zertifiziert ([Urkunde](/jugend/Urkunde_Halt.pdf)). Wir sehen uns verpflichtet, die
+geltenden Jugendschutzbestimmungen aktiv einzuhalten und setzen die Vorgaben des
+Präventionsprojekts HaLT [entsprechend den vereinbarten Regeln](/jugend/Halt_Regelwerk.pdf)
+um.
