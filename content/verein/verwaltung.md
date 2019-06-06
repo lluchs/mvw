@@ -21,10 +21,10 @@ Schriftführer
 : Sarah Kistner, Lisa Honzejk
 
 Musikervorstand
-: Daniel Heck
+: Lukas Werling
 
 Musikerrat
-: Lukas Stürmlinger, Volker Mompere
+: Volker Momperé, Sarah Eisen
 
 Passive Beisitzer
 : Martin Vögele, Sonja Schröder
@@ -36,7 +36,7 @@ Ausbildungsleiterin
 : Claudia Fitterer
 
 Festausschuss
-: Kevin Fitterer, Martin Fischer
+: Martin Fischer, Sonja Schröder
 
 Notenwart
 : Martin Bader
@@ -51,9 +51,9 @@ Redaktion
 </div>
 
 <div class="pure-u-2-3" markdown="1">
-<img class="pure-img" src="/images/verein/Verwaltung_Feb_2017.jpg" alt="Gruppenbild">
+<img class="pure-img" src="/images/verein/verwaltung_2019.jpg" alt="Gruppenbild">
 
-Die Verwaltung im Februar 2017. Es fehlt Martin Vögele.
+Die Verwaltung im Juni 2019.
 </div>
 </div>
 

@@ -17,7 +17,6 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
  - Annkathrin Schorpp
  - Lisa Honzejk
  - Michaela Schorpp
- - Simon Martin
 
 ### Oboe
 
@@ -25,7 +24,6 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
 
 ### Klarinette
 
- - Alena Klein
  - Caroline Brandt
  - Claudia Fitterer
  - Claudia Schorpp
@@ -44,15 +42,14 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
  - Antje Martin
  - Julia Schorpp
  - Levin Yildirim
+ - Nicole Niebergall
  - Peter Dunz
 
 ### Trompete/Flügelhorn
 
  - Andreas Schorpp
  - Constantin Rauch
- - Diana Stürmlinger
  - Joachim Heck
- - Jonas Oelze
  - Linda Stürmlinger
  - Luzia Eisen
  - Mia Vögele
@@ -61,24 +58,21 @@ Die Gesamtkapelle des Musikvereins 'Harmonie' Würmersheim e.V. setzt sich derze
 
 ### Horn
 
+ - Chiara Günter
  - Cordula Grisse
  - Lukas Stürmlinger
- - Theodor Alberti
 
 ### Tenorhorn/Bariton
 
  - Jan Thern
  - Klaus Burger
  - Klaus Oberle
- - Leopold Eisen
  - Luis Vögele
  - Petra Eisen
 
 ### Posaune
 
  - Jannis Gerhards
- - René Kassel
- - Steffen Martin
  - Stephan Wlotzka
  - Volker Momperé
 
