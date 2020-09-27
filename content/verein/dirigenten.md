@@ -8,31 +8,7 @@ title: Dirigenten
 
 ## Dirigent
 
-<div class="l-box" style="float: left">
-<img src="/images/verein/ochi.jpg" alt="Kunihiro OCHI">
-</div>
-
-**Kunihiro OCHI** wurde in Tokio/Japan geboren. Nach seinen Waldhornstudien am Geburtsort
-und in Frankfurt am Main folgte ein Aufbaustudium als Kapellmeister an der Staatlichen
-Musikhochschule Karlsruhe. Schon während seiner Studienzeit bewies er seine Fähigkeiten als
-Dirigent durch zahlreiche Aufnahmen beim Hessischen Rundfunk und beim Süddeutschen
-Rundfunk. Gastdirigate bei den nationalen und internationalen professionellen Orchestern
-folgten. Bei der Baden-Badener Philharmonie war OCHI besonders gern gesehener Gast und
-stand zwischen 1989 und 1994 insgesamt 29 mal am Dirigentenpult.
-
-Ab 1991 übernahm er auch verschiedene Musikvereine. So dirigierte er z.B. von 1992 bis 2003
-den Musikverein Weingarten und von 2001 bis 2013 den Musikverein Appenweier.
-Sein Engagement in den Vereinen hinderte ihn nicht, gleichzeitig auch größere Aufgaben zu
-übernehmen. So war er von 1998 bis 2003 Musikdirektor des Blasorchesters der
-Elektrizitätswerke in Straßburg. Mit diesem Orchester hat OCHI den ersten Preis beim französichen
-Nationalwettbewerb in Thon les Bains errungen. Beim Sinfonischen Blasorchester Mercedes-Benz
-Wörth trägt er seit 1996 die musikalische Verantwortung. Von 1997 bis 2013 leitete er das
-LandesJugendBlasOrchester Rheinland-Pfalz, was für ihn zu einer Herzensangelegenheit wurde.
-Bei seinem Ausscheiden bescheinigte ihm Ministerpräsidentin Malu Dreyer „die musikalische
-Landschaft in Rheinland-Pfalz bereichert“ zu haben.
-
-In Würmersheim ist OCHI seit September 2018 als künstlerischer Leiter des Musikvereins
-Harmonie tätig.
+Seit September 2020 wird der Musikverein Würmersheim von Andreas Hacken dirigiert.
 
 ## Vizedirigent
 
